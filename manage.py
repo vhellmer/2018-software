@@ -2,6 +2,8 @@
 import os
 import sys
 
+#Run python manage.py runserver in command to run website
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
     try:
