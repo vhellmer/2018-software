@@ -1,5 +1,8 @@
 *.pyc
 *~
+*.fasta
+*.XLSX
+*.md
 __pycache__
 myvenv
 db.sqlite3
