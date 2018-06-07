@@ -1,111 +1,6 @@
-{% load staticfiles %}
-<html>
-    <head>
-        <style>
+{% extends 'website/base.html' %}
 
-ul {
-
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #153b77;
-}
-
-li {
-    float: left;
-
-
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-        margin-top: -40;
-
-}
-
-li a:hover {
-    background-color: #142238;
-}
-
-form {
-  position: relative;
-  width  : 740px;
-  height : 498px;
-    padding: 12px 30px 12px 30px;
-  margin : 70 auto;
-
-  background: #cccccc url(background.jpg);
-}
-
-input[type=text] {
-    width: 100%;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    font-size: 16px;
-    background-color: white;
-    background-image: url('searchicon.png');
-    background-position: 10px 10px; 
-    background-repeat: no-repeat;
-    padding: 12px 30px 12px 30px;
-    margin: 10;
-}
-
-input[type=button], input[type=submit], input[type=reset] {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    text-decoration: none;
-    margin: 4px 2px;
-    cursor: pointer;
-
-
-}
-
-h1 {
-    color: #FCA205;
-    font-family: 'Lobster';
-    padding-bottom: 40;
-}
-</style>
-
-        <title>Software</title>
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="{% static 'css/front_page.css' %}">
-
-        <div class="page-header">
-            <h1>O-Ribosome Software Tool</h1>
-
-
-<ul>
-  <li><a class="active" href="/">Home</a></li>
-  <li><a href="/software">Software</a></li>
-  <li><a href="/discussion">Discussion</a></li>
-  <li><a href="/about">About</a></li>
-</ul>
-
-
-        </div>
-
-    </head>
- <body>
-<!--         <div class="page-header">
-        <h1><a href="/">Orthogonal Ribosome</a></h1>
-    </div> -->
-
-<!--         <div class="nav-bar">
-
-        </div>
-        <a href="default.asp" target="_blank">This is a link</a>
- -->
-
+{% block content %}
 <form action="/action_page.php">
   input1:<br>
   <input type="text" name="input1"><br>
@@ -113,13 +8,10 @@ h1 {
   <input type="text" name="input2"><br><br>
   <input type="submit">
 </form>
+{% endblock %}
 
 
 
-
-
-    </body>
-</html>
 
 
 
