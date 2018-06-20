@@ -1,12 +1,18 @@
 {% extends 'website/base.html' %}
 
 {% block content %}
-<form action="/action_page.php">
+<!-- <form medthod="post" action="/do_stuff/">
   input1:<br>
   <input type="text" name="input1"><br>
   input2:<br>
   <input type="text" name="input2"><br><br>
   <input type="submit">
+</form> -->
+
+<form action="/do_stuff/" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit" />
 </form>
 {% endblock %}
 
