@@ -234,7 +234,7 @@ def allASDTIRpairs():
     currentlib = orthoribalgorithm()
     TIRdict = getallTIRs()
     dictofvals = {}
-    print(len(TIRdict))
+    print("Number of TIRs:" + str(len(TIRdict)))
     listofaverages = []
     for i in range(0, round(len(currentlib) / 2)): # iterate through all ASDs
         listofvals = []
