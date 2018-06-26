@@ -1,6 +1,5 @@
 # orthoribalalgorithm.py
 # Rice University iGEM 2018
-# Vu Hoang Anh and Sai Sriram
 
 # ---------------------------------------Step 1----------------------------------------------------------
 
