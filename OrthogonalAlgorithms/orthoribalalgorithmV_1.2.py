@@ -5,6 +5,25 @@
 # Correspondence: ss162@rice.edu; ahv1@rice.edu
 
 
+# ---------------------------------------Step 1----------------------------------------------------------
+# -------------------------------- Initialize library --------------------------------------------------
+
+
+def libbuild():
+    """
+    Read the initial library of 4096 pairs from a InitialLibrary file, including
+    all possible combinations from randomizing 6 bases in the SD/ASD region.
+    Additionally, formats the initial dictionary so that the first SD has the key "SD1", and so on.
+    :return: The initial dictionary containing all possible SD/ASD sequences
+    """
+    import pickle
+    pickle_in = open("InitialLibrary","rb")
+    IniLibrary = pickle.load(pickle_in)
+    #print('4096 pairs are: ', Libdict)
+    return IniLibrary
+
+# --------------------------------- Supporting functions -------------------------------------------------------
+
 def convertTtoU(sequence):
     """
     Convert thymine to uracil
@@ -31,66 +50,6 @@ def revcomp(sequence):
     return revcompseq
 
 
-def SDseqnum2str(code):
-    """
-    Translate a 6-digit number to its responding 6-base SD sequence
-
-    :param code: The 6 digit number code (with numbers 1-4) in string form
-    :return: The corresponding RNA sequence
-    """
-    seq = ''
-    codex = 'AUCG'
-    for i in range(0, len(code)):
-        index = int(code[i])
-        seq = seq + codex[index - 1]
-    return seq
-
-
-def ASDseqnum2str(code):
-    """
-    Translate a 6-digit number to its responding 12-base ASD sequence
-
-    :param code: The 6 digit code (numbers 1-4) as a string
-    :return: The ASD sequence
-    """
-    seq = revcomp(SDseqnum2str(code))
-    seq = 'AUCA' + seq + 'UA'
-    return seq
-
-# ---------------------------------------Step 1----------------------------------------------------------
-# -------------------------------- Initialize library --------------------------------------------------
-
-
-def libbuild():
-    """
-    Build a library of 4096 pairs
-
-    Uses 6 for loops to iterate through all possible combinations of 6 digit numbers consisting of 1, 2, 3, and 4.
-    Additionally, formats the initial dictionary so that the first SD has the key "SD1", and so on.
-    :return: The initial dictionary containing all possible ASD sequences
-    """
-    Lib = []
-    for b1 in range(1, 5):
-        for b2 in range(1, 5):
-            for b3 in range(1, 5):
-                for b4 in range(1, 5):
-                    for b5 in range(1, 5):
-                        for b6 in range(1, 5):
-                            seqcode = str(b1) + str(b2) + str(b3) + str(b4) + str(b5) + str(b6)
-                            SDseq = SDseqnum2str(seqcode)
-                            ASDseq = ASDseqnum2str(seqcode)
-                            Lib.append([SDseq, ASDseq])
-    Libdict = {}
-    for x in range(0, 4096):
-        pair = Lib[x]
-        Libdict['SD{0}'.format(x + 1)] = pair[0]
-        Libdict['ASD{0}'.format(x + 1)] = pair[1]
-    print('4096 pairs are: ', Libdict)
-    return Libdict
-
-# --------------------------------- Supporting functions -------------------------------------------------------
-
-
 def RNAduplexval(firstseq, secondseq):
     """
     Call RNAduplex in python shell; change RNAduplex path used below corresponding to position of RNAduplex.exe
@@ -101,10 +60,12 @@ def RNAduplexval(firstseq, secondseq):
     :return: A value corresponding to the binding energy of the ASD and SD in kcal/mol
     """
     import subprocess
+    import os
     input = firstseq + '\n' + secondseq + '\n'
     input = input.encode('utf-8')
     from subprocess import Popen,PIPE,STDOUT
-    result = Popen(["C:\\Users\\siddu\\Desktop\\Python Code\\Vienna\\RNAduplex.exe"], stdout=subprocess.PIPE, stdin=subprocess.PIPE)
+    RNAduplexpath = os.path.join(os.path.dirname(__file__), "Vienna\\RNAduplex.exe")
+    result = Popen([RNAduplexpath], stdout=subprocess.PIPE, stdin=subprocess.PIPE)
     m = result.communicate(input=input)[0]
     val = m.decode('utf-8')
     n = val.find(':')
@@ -136,19 +97,43 @@ def updatelibindex(library):
 
 def RNAfoldseq(fullRNAsequence):
     """
-    Call RNAfold program in python, ***change full path of program accordingly
+    Call RNAfold program in python using the default option utilizing MFE structure.
 
     :param fullRNAsequence: The RNA sequence in string form.
     :return: The free energy of the folded structure.
     """
     import subprocess
+    import os
     input = fullRNAsequence
     input = input.encode('utf-8')
     from subprocess import Popen,PIPE,STDOUT
-    result = Popen(["C:\\Users\\siddu\\Desktop\\Python Code\\Vienna\\RNAfold.exe"], stdout=subprocess.PIPE,stdin=subprocess.PIPE)
+    RNAfoldpath = os.path.join(os.path.dirname(__file__), "Vienna\\RNAfold.exe")
+    result = Popen([RNAfoldpath], stdout=subprocess.PIPE, stdin=subprocess.PIPE)
     m = result.communicate(input=input)[0]
     val = m.decode('utf-8')
     val = val[len(fullRNAsequence)+1:len(fullRNAsequence)*2+1]
+    return val
+
+
+
+def RNAfoldcentroidseq(fullRNAsequence):
+    """
+    Call RNAfold program in python using the centroid option.
+
+    :param fullRNAsequence: The RNA sequence in string form.
+    :return: The free energy of the folded structure.
+    """
+    import subprocess
+    import os
+    input = fullRNAsequence
+    input = input.encode('utf-8')
+    from subprocess import Popen,PIPE, STDOUT
+    RNAfoldpath = os.path.join(os.path.dirname(__file__), "Vienna\\RNAfold.exe")
+    result = Popen([RNAfoldpath, "-p"], stdout=subprocess.PIPE, stdin=subprocess.PIPE)
+    m = result.communicate(input=input)[0]
+    val = m.decode('utf-8')
+    index = val.find('d')
+    val = val[index-10-len(fullRNAsequence):index-10]
     return val
 
 
@@ -163,8 +148,9 @@ def getallTIRs():
     :return: A dictionary containing all translation initiation regions, starting 20 bps in front of the start codon and
     including the start codon itself. Formatted to access the first TIR of the genome by key "TIR1"
     """
-
-    with open('C:/users/siddu/Desktop/Python Code/fiftyupstreamecoli.txt', 'r') as genefile:
+    import os 
+    filepath = os.path.join(os.path.dirname(__file__), "fiftyupstreamecoli.txt")
+    with open(filepath, 'r') as genefile:
         i = 1
         TIRdict = {}
         for line in genefile:
@@ -187,7 +173,7 @@ def secstructurelib(Library):
     NewLib = {}
     for n in range(0,int(len(Library)/2)):
         full16srRNAseq = full16srRNAseq[0:-12] + Library['ASD{0}'.format(n+1)]
-        secstructure = RNAfoldseq(full16srRNAseq)
+        secstructure = RNAfoldcentroidseq(full16srRNAseq)
         NewLib['foldedseq{0}'.format(n+1)] = str(secstructure)
     return NewLib
 
@@ -197,10 +183,11 @@ def get16srRNAseq():
     Get the full 16s rRNA sequence from the genome
     :return: the full 16s rRNA sequence from the genome
     """
-    with open('C:\\Users\\siddu\\Desktop\\Python Code\\ecoligenome.txt','r') as myfile:  # determine rRNA sequence
+    import os
+    filepath = os.path.join(os.path.dirname(__file__), "ecoligenome.txt")   
+    with open(filepath,'r') as myfile:  # determine rRNA sequence
         data = myfile.read().replace('\n', '')
     full16srRNAseq = convertTtoU(data[4166658:4168200])
-    full16srRNAseq = convertTtoU(full16srRNAseq)
     return full16srRNAseq
 
 # ---------------------- Define a class to model the library and apply each step to that object -----------------
@@ -232,7 +219,7 @@ class Library:
         """
         full16srRNAseq = get16srRNAseq()
 
-        WtASD = full16srRNAseq[-12:-1] + full16srRNAseq[-1]
+        WtASD = full16srRNAseq[-12:]
         WtSD = revcomp(WtASD[4:10])
         Wildval = RNAduplexval(WtASD, WtSD)  # Calculate the binding energies of Wild-type ASD/SD pair
         # self.library is the initial library after step 1
@@ -249,6 +236,31 @@ class Library:
         return self.library
 
     # -------------------------------Steps 4-5--------------------------
+    
+    
+    def narrow_crossbinding(self):
+        """
+        Narrow down the library more by eliminating pairs with ASD that has < 1 kcal/mol binding energy with
+        wild type SD
+
+        :param rRNA: The rRNA sequence in string form.
+        :return: Further narrowed dictionary.
+        """
+        rRNA = get16srRNAseq()
+        WtSD = revcomp(rRNA[1534:1540])
+        for n in range(0,int(len(self.library)/2)):
+            ASD = 'ASD' + str(n+1)
+            SD = 'SD' + str(n+1)
+            if float(RNAduplexval(self.library[ASD],WtSD)) < -1:
+                del self.library[ASD]
+                del self.library[SD]
+        self.library = updatelibindex(self.library)
+        print('Library after step 5:', self.library)
+        return self.library
+
+    # --------------------------Steps 6-7-----------------------------------
+    
+    
     def ASD_2rystructure_narrow(self):
         """ Narrow down the library by discarding sequences that forms secondary structure in ASD region
          Import the most narrowed Libdict up to step 5 as well as the secondary structure dictionary.
@@ -276,30 +288,9 @@ class Library:
                 del self.library[ASDname]
                 del self.library[SDname]
         self.library = updatelibindex(self.library)
-        print('Library after step 5: ', self.library)
+        print('Library after step 7: ', self.library)
         return self.library
 
-    # --------------------------Steps 6-7-----------------------------------
-
-    def narrow_crossbinding(self):
-        """
-        Narrow down the library more by eliminating pairs with ASD that has < 1 kcal/mol binding energy with
-        wild type SD
-
-        :param rRNA: The rRNA sequence in string form.
-        :return: Further narrowed dictionary.
-        """
-        rRNA = get16srRNAseq()
-        WtSD = revcomp(rRNA[1534:1540])
-        for n in range(0,int(len(self.library)/2)):
-            ASD = 'ASD' + str(n+1)
-            SD = 'SD' + str(n+1)
-            if float(RNAduplexval(self.library[ASD],WtSD)) < -1:
-                del self.library[ASD]
-                del self.library[SD]
-        self.library = updatelibindex(self.library)
-        print('Library after step 7:', self.library)
-        return self.library
 
 # ---------------------------------Steps 8-10-----------------------------------------------------
 
@@ -341,6 +332,6 @@ initiallib = libbuild() # Create the initial library, this will be replaced by a
 # library from a file
 ecolistrain = Library(initiallib) # Create the E. coli instance.
 ecolistrain.narrow_binding() # Step 3
-ecolistrain.ASD_2rystructure_narrow() # Step 5
-ecolistrain.narrow_crossbinding() # Step 7
+ecolistrain.narrow_crossbinding() # Step 5
+ecolistrain.ASD_2rystructure_narrow() # Step 7
 ecolistrain.allASDTIRpairs() # Last step
