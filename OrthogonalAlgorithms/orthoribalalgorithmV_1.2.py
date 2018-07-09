@@ -139,28 +139,102 @@ def RNAfoldcentroidseq(fullRNAsequence):
 
 def getallTIRs():
     """
+    *****************************************************************
     Builds a dictionary of strings that contains all the TIRS, accessible via
     the TIR number.
 
-    eg TIRdict['TIR1'] returns the first TIR in the genome. Total of
-    3746 TIRs in the E. coli genome.
-    :param file: The file used here is a .txt with the sequence 50 bps upstream of all transcription start sites.
+    eg TIRdict['TIR1'] returns the first TIR in the genome. TIRs are determined from the CDS file of the species as well
+    as a .txt of the genome file, containing only base pairs.
+    :param files: The files used here are the species CDS and genome.
     :return: A dictionary containing all translation initiation regions, starting 20 bps in front of the start codon and
     including the start codon itself. Formatted to access the first TIR of the genome by key "TIR1"
     """
-    import os 
-    filepath = os.path.join(os.path.dirname(__file__), "fiftyupstreamecoli.txt")
-    with open(filepath, 'r') as genefile:
-        i = 1
+
+    with open('C:/users/siddu/Desktop/Python Code/E coli K-12 MG1655 CDSs.txt', 'r') as cdsfile:  # get all CDSs
+        # Note that the CDS file sometimes skips some numbers -- for example goes from 54 to 56.
+        cdslist1 = []
+        cdslist2 = []
+        for line in cdsfile:
+            idx1 = line.find('[location=')
+            if idx1 != -1:
+                idx2 = line.find('..')
+                if line[idx1 + 10: idx1 + 13] == 'com':
+                    # complement cases -- take the second number then reverse complement
+                    if line[idx1 + 21] == 'j':  # join cases -- unaccounted for
+                        pass
+                    else:
+                        idx2_1 = line.find(')]\n')
+
+                        cdslist2.append(int(line[idx2 + 2: idx2_1]) - 1)  # -1 to account for Python indexing
+                        pass
+                else:
+                    cdslist1.append(int(line[idx1 + 10: idx2]) - 1)
+            else:
+                pass
+        print('Number of CDS = ' + str(len(cdslist1)))
+        print('Number of complement CDS = ' + str(len(cdslist2)))
+    # MUST ACCOUNT FOR THE JOIN CASES
+    # ------------------------ Regular cases when TIRs are found on the genome strand ---------------------------------
+    with open('C:/users/siddu/Desktop/Python Code/ecoligenome.txt', 'r') as genomefile:
+        index = 0
+        i = 0
+        previousline = ''
         TIRdict = {}
-        for line in genefile:
-            line = line.strip()
-            seq = line[-20:]
-            TIR = str(convertTtoU(seq))+'AUG'
-            TIRname = 'TIR' + str(i)
-            i = i + 1
-            TIRdict[TIRname] = TIR
-        return TIRdict
+        for line in genomefile:  # cdslist1 deals with the forward sequences
+            line = line.rstrip()
+            currentandprevious = previousline.rstrip() + line.rstrip()
+            # we concatenate the current and previous lines to account for
+            # CDS that overlap over two lines
+            if i < len(cdslist1):
+                idx3 = cdslist1[i] - index
+
+                if idx3 > 66:
+                    # this is the case when the end 3 bps overlap into the next line or we haven't yet reached
+                    # the line of the CDS yet
+                    previousline = line.rstrip()
+                    index += 70  # each line is 70 bps long
+                    pass
+
+                else:
+                    # here we have the case when we already passed the start of this TIR, so we have to go back to the
+                    # previous line
+                    a = convertTtoU(currentandprevious[idx3 + 49:idx3 + 73])
+
+                    TIRdict['TIR' + str(i + 1)] = a  # 59 to 73
+                    i = i + 1
+                    previousline = line.rstrip()
+                    index += 70  # each line is 70 bps long
+                    pass
+
+    # ------------------------------- Complement cases where TIRs are found on complementary strand ----------------------
+    with open('C:/users/siddu/Desktop/Python Code/ecoligenome.txt', 'r') as genomefile:
+        index = 0
+        j = i
+        i = 0
+        previousline = ''
+        for line in genomefile:  # This loop handles cdslist2, which contains the reverse complement sequences.
+            line = line.rstrip()
+            currentandprevious = previousline.rstrip() + line.rstrip()
+            # we concatenate the current and previous lines to account for
+            # CDS that overlap over two lines
+            if i < len(cdslist2):
+                idx3 = cdslist2[i] - index
+                if idx3 > 49:
+                    # this is the case when the end 3 bps overlap into the next line or we haven't yet reached
+                    # the line of the CDS yet
+                    previousline = line.rstrip()
+                    index += 70  # each line is 70 bps long
+                    pass
+                else: 
+                    # here we have the case when we already passed the start of this TIR, so we have to go back to the
+                    # previous line
+                    a = convertTtoU(revcompDNA(currentandprevious[idx3 + 68:idx3 + 92]))
+                    TIRdict['TIR' + str(i + 1 + j)] = a
+                    i = i + 1
+                    previousline = line.rstrip()
+                    index += 70  # each line is 70 bps long
+                    pass
+    return TIRdict
 
 
 def secstructurelib(Library):
