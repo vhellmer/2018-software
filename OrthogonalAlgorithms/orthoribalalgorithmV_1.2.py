@@ -50,6 +50,21 @@ def revcomp(sequence):
     return revcompseq
 
 
+def revcompDNA(sequence):
+    """
+    Find reverse complementary sequence
+    :param sequence: The RNA sequence in string form
+    :return: The reverse complement sequence in string form
+    """
+    complement = {"A": "T", "T": "A", "C": "G", "G": "C", "N": "N"}
+    revcompseq = ""
+    sequence_list = list(sequence)
+    sequence_list.reverse()
+    for letter in sequence_list:
+        revcompseq += complement[letter.upper()]
+    return revcompseq
+
+
 def RNAduplexval(firstseq, secondseq):
     """
     Call RNAduplex in python shell; change RNAduplex path used below corresponding to position of RNAduplex.exe
