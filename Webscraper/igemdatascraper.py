@@ -46,7 +46,7 @@ for team in teamlist:
 			sleep(2)
 			textarea = driver.find_element_by_xpath('//*[@id="formbody"]/fieldset[3]/div/div[1]/textarea').get_attribute("value")
 			if(textarea != ""):
-				txtfile.write(textarea + "\n\n")
+				txtfile.write(textarea + "\n" + "*****" + "\n")
 		except:
 			print(team + " not found in dropdown menu")
 
