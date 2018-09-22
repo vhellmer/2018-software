@@ -1,4 +1,0 @@
-We used E. coli strains  DH10B and BL21(DE3).
-
-The only whole organism that shall be used is the yeast species Pichia Pastoris, Strain: X-33 , which shall act as a host for the synthesis of our genetically engineered LTNF itself.
-
