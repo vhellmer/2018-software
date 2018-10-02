@@ -1,0 +1,1102 @@
+E. coli (DH5-alpha) and S. cerevisiae (BY4742 and BMA64-1A)
+*****
+We used E. coli strains  DH10B and BL21(DE3).
+*****
+The only whole organism that shall be used is the yeast species Pichia Pastoris, Strain: X-33 , which shall act as a host for the synthesis of our genetically engineered LTNF itself.
+*****
+Escherichia coli K12 
+*****
+E. coli BL21 (DE3) and E. coli DH5a
+*****
+We are using an entomopathogenic and filamentous fungus (Beauveria Bassiana), and two non-pathogenic E. coli strains: BL21 (used to produce proteins: T7 RNA polymerase gene that can direct high-level expression of genes under the control of the T7 promoter) and DH5-alpha (Developed for laboratory cloning use) used to increase the plasmid of interest's number.
+
+
+*****
+NEB 5-Alpha Competent   K-12 E. Coli.
+*****
+Escherichia coli DH5 alpha, and E. coli BL21 (DE3)
+*****
+We are not planning to use a whole organism for our project. Instead, we will use a commercially available in-vitro protein synthesis kit, in particular the PURExpress by NEB. 
+*****
+Escherichia coli (Top10)
+Escherichia coli (K-12 DH5-alpha)
+Agrobacterium tumefaciens
+Arabidopsis thaliana
+*****
+E. coli: BL21 DE3 STAR cell strain
+*****
+E. coli, Acidithiobacillus ferroxidans, Pseudoalteromonas haloplanktis TAC125, Oenoccocus oeni, Corynebacterium striatum, Staphylococcus epidermidis ATCC 35984 (strain RP62A), Staphylococcus epidermidis ATCC 12228 (FDA strain PCI 1200), Pseudomonas chloritidismutans, Anabaena variabilis, Lactobaccilus plantarum, and Serratia marcescens
+*****
+We are using the k12 strain of E. Coli as the organism for our project.
+*****
+Escherichia coli Top10  Nicotine
+*****
+We use the bacteria of E.coli DH5 alpha
+*****
+We use E.coli DH5a, a kind of engineering E.coli that is mainly used in lab and can't survive in the wild.
+*****
+The organisms  that we will use in our project are:
+1. BV2 cell line.
+2. C8D30 cell line.
+3. E.coli - Dh5a.
+4. NSC34 cell line
+5. HEK cell line
+6. Lentivirus
+7. Primary cells
+8. U-251 MG cell line
+9. NIH 3T3 cell line murine
+*****
+E. coli K12 DH5alpha
+E. coli KRX
+E. coli BL21
+Pseudomonas brassicacearum 3Re2-7 1 3
+*****
+Escherichia coli - K-12 DH5-alpha strain
+*****
+Escherichia coli DH5 alpha
+Escherichia coli BL21
+Pichia pastoris
+*****
+E.coli 
+
+DH5-alpha
+Genotype
+F-(80d lacZ M15)(lacZYA-argF)U169hsdR17(r-m+)recA1 endA1 relA1 deoR
+
+*****
+White list K12, pichia pastoris which is listed as GRAS by FDA. 
+
+*****
+Escherichia.coli(DH5alpha)
+
+*****
+yeast(Saccharomyces cerevisiae S288C, (Cen.PK2-1C), E.coli(top10, DH5alpha)
+*****
+E.coli(DH5a, BL21, trans10)
+*****
+We are going to use E.coli DH5a (safety level 1) and A.hydrophila (safety level 2).
+*****
+E.coli K12 DH5alpha,E.coli K12 BL21,E.coli K12 stbl3
+Saccharomyces cerevisiae EBY100
+*****
+Pichia pastoris CBS7435, 
+Arabidopsis thaliana col-0, 
+Escherichia coli DH10B, 
+Agrobacterium tumefaciens
+*****
+As part of our project, we use Escherichia coli strain DH5alpha.
+*****
+We are using E.coli-TG1 for molecular cloning and S.cerevisiae-yPH500 for the final expression of our genes of interest. The TG1 strain is derivative of the E.coli K-12 strain. In addition, there are several in-lab strains of yeast we are using, which are all daughter strains of yPH500. 
+*****
+We are going to take nif genes from Paenibacillus polymyxa and Rahnella aqatilis, so we confirm if they can do nitrogen fixation by using Indophenol method.
+We will take nifBHDKENX-hesA from Paenibacillus polymyxa.
+We will take nifVSU from Rahnella aquatilis.
+We will take pheDH from Bacillus badius.
+We will take gluDH from Bacillus licheniformis.
+Our bacteria are meant to do nitogen fixation, so we will conduct acetylene gas chromatography and autoradiography using isotope of nitrogen.
+Our bacteria are meant to make phenylalanine and glutamic acid from nitrogen gas, so we will conduct autoradiography using isotope of nitrogen.
+We used E.coli JM109  as host.
+*****
+We plan on using Escherichia coli, strains DH5a and BL21 for our project.
+*****
+We are planning on using two strains of E. coli: DH5alpha and BL21DE. 
+*****
+E.coli DH5
+*****
+E. coli strains: DH5alfa, Top10, BL21, Rosetta gami
+*****
+E. coli DH5alpha; immortalized human cell line (HEK293T)
+*****
+We plan to use Nicotiana benthamiana as the production system for the genetic constructs, and will be engineering E. coli, and Agrobacterium tumefaciens to create the transgenic plants. We will also be testing the effects of the constructs on the aphid Myzus persicae. 
+*****
+Yeast (Pichia pastoris strain SMD1168)
+*****
+The mysterious fruit (scientific name: Synsepalum dulcificum Daniell) is a genus of genus Myrobalan, a typical tropical evergreen shrub that originates in West Africa, Ghana, and Congo.
+ Escherichia coli DH5a is a strain commonly used for plasmid cloning.
+Lactobacillus bulgaricus is widely used throughout the world for making yogurt
+*****
+Escherichia Coli DH5-alpha 
+Saccharomyces cerevisiae CEN.PK113-11C
+*****
+E.coli (top10, DH5alpha, BL21), Yeast (Saccharomyces cerevisiae)
+*****
+We are not using a whole organism for the circuit itself. 
+*****
+E.Coli is the only organism used in this project. Strains that will be used are :DH5alpha and BL21 DE3 plysS
+*****
+DH5alpha strain E. Coli. We construct bacteria with antibiotic resistance. While the E. Coli is harmless,  If it gets spread into the environment, it could pass the resistance to other bacteria which could be very dangereous to organisms, especially humans. This would be a serious health risk.  Thus, we must ensure to kill all bacteria at the end of our experiments. We use bleach.
+*****
+Escherichia coli BL21. 
+*****
+We are planning to use only E. Coli K-12 DH5-alpha in our project.
+*****
+E. coli K-12: DH5alpha and DH10beta strains
+*****
+Escherichia coli DH5-Alpha. 
+*****
+Our team uses E.coli DH5alpha ,human liver cancer cell lines HepG2 , Huh7 and liver cell lines lo2 in the experiments.
+We also use human renal epithelial 293T cells in the experiments.
+*****
+E. Coli DH5-alpha
+Quorum sensing genes of Staphylococcus aureus (obtained from iGEM)
+Staphylococcus aureus DAR31 (aka Btn1260)
+Staphylococcus aureus ATCC25923
+
+*****
+E.coli K-12 (DH5-alpha)
+*****
+Esherichia coli DH5alpha 
+Caulobacter crecentus strain CB15
+Pseudomonas fluorescens UW4
+*****
+We will be using E. coli NEB 10 cell as chassis to both clone and help assemble our device.  The NEB10 cells will, depending upon the stage of the work, contain plasmids that contain one or two antibiotic resistant genes (ampicillin, kanamycin, tetracycline, and or chloramphenicol) and these require our BSL-2 biosafety cabinet.
+
+While not a virus, we will be using two plasmids that have the potential to infect and modify the genome of mammalian cells.  These plasmid are part of the Thermo Fisher "Flp In" gene expression system.  The pOG44 plasmid contains a recombinase enzyme and the capability of installing a cassette containing an expression system with a multiple cloning site to drop in a coding region using an other plasmid: pcDNA-T5-FRO which is a shuttle vector for the addition of a selected coding sequence (a calcium channel or modified calmodulin protein).  Both have the potential to be infectious, theoretically and need to be handled appropriately (BCL-2).
+
+Finally we will be culturing a mammalian cell lines: HEP2K (human kidney), BHK-21 (hamster kidney), and CHO K1 (hamster ovary) cells.  While all of these have been provided by ATCC or Thermo Fisher and have been screened for the presence of human pathogens, they are at risk of being transiently infected during the process of handling.  We have a dedicated BSL-2, type II (external exhaust) biosafety cabinet for their handling.
+*****
+Escherichia coli strain Nissle, 
+BL21 Competent E. coli, 
+DH5-Alpha Escherichia coli strain 
+*****
+E.coli BL21(DE3)
+*****
+The only whole organisms we will be using are our chassis organisms, Pseudomonas aeruginosa.
+*****
+E. coli DH5a
+Pleurotus ostreatus (not used for genetic engineering)
+Schizophyllum commune (not used for genetic engineering)
+Aspergillus oryzae
+Ganoderma rescineceum
+*****
+Saccharomyces cerevisiae BY4742, genotype: MATalpha his3D1 leu2D0 lys2D0 ura3D0
+
+Escherichia coli DH5alpha: Blue/white color screening with lacZDM15, High insert stability due to recA1 mutation, High yield and quality of DNA due to endA mutation
+
+Escherichia coli TOP10,	genotyp: F- mcrA D(mrr-hsdRMS-mcrBC) phi80lacZDM15 DlacX74 recA1 araD139 D( araleu)7697 galU galK rpsL (StrR) endA1 nupG
+
+Escherichia coli Pir, genotyp: F- Dlac169 rpoS(Am) robA1 creC510 hsdR514 endA recA1 uidA(DMluI)::pir-116
+
+Escherichia coli BL21, genotyp: B F- ompT gal dcm lon hsdSa(r-ma-) [malB+]K-12 (lambdaS) 
+
+Escherichia coli BL21 (DE3) C43, genotype: F-ompT gal dcm lon hsdS B(rB-mB-) lambda(DE3 [lacI lacUV5-T7 gene 1ind1 sam7 nin5])
+
+Escherichia coli BL21 (DE3) C43 (-leuB), genotype: F-ompT gal dcm lon hsdS B(rB-mB-) lambda(DE3 [lacI lacUV5-T7 gene 1ind1 sam7 nin5]) (-leuB)
+
+Escherichia coli BL21 (DE3) C43 (-leuB, lysC), genotype: F-ompT gal dcm lon hsdS B(rB-mB-) lambda(DE3 [lacI lacUV5-T7 gene 1ind1 sam7 nin5]) (-leuB, lysC)
+
+Synechococcus elongatus sp. PCC 7942
+
+Synechococcus elongatus sp. PCC 7942 ++invA, glf, IdhA, IIdP
+
+Synechococcus elongatus sp. PCC 7942 cscB:::NS3, Genotype: M744_RS12430::Plac-cscB-CmR
+
+Zymomonas mobilis 			wild type
+
+Corynebacterium glutamicum 	wild type
+
+Pseudomonas putida KT2440 	genotype: rmo- mod+ 
+*****
+We are using E. Cloni by Lucigen which is a derivative of the K-12 strain of Escherichia coli.
+*****
+E.Coli
+*****
+Different E. coli strains: 
+JM109 
+Top10
+DH5alpha
+BL21(DE3)
+BL22(DE3)pLyss
+*****
+Escherichia coli BL21 (as our chassis) and Thiobacillus Ferrooxidans (as our target strain)
+*****
+Escherichia coli strains BL21 DE3 and DH5(alpha). Genes from R. Eutropha and P. acidipropionici were obtained through IDT and through iGEM distribution kits
+*****
+Disabled Escherichia coli strains DH5-alpha (http://ecoliwiki.net/colipedia/index.php/DH5_alpha), CSR603 (http://cgsc2.biology.yale.edu/Strain.php?ID=4740), MK4100 (http://cgsc2.biology.yale.edu/Strain.php?ID=9973) MC1000 (http://cgsc2.biology.yale.edu/Strain.php?ID=8823) and SE5000 (MK4100 with recA- and recA KO).
+
+
+*****
+Escherichia coli DH10B
+Drosophila melanogaster W1088
+*****
+Immature Dendritic Cells (Strain: C57BL/6) from bone marrow of Mus Musculus (Mouse). Although, often dendritic cells fit within the biosafety class II of organisms, these cells do not contain any hazardous retroviruses for humans and are not known to cause any disease, so they fall within the biosafety class I. Furthermore, these cells have been proven to be activated under antigen presentation and serve as good initiators of immune response, which is what we aim to explore with the proposed vaccine. 
+
+T lymphocyte (C57BL/6) derived from Mus Musculus (Mouse) lymph nodes. As seen with the dendritic cells, this cell line fits within the biosafety level I class and it is ideal for the co-culture with dendritic cells and subsequent activation.   
+
+E. coli (K-12/BL21-DE3) are common types of Escherichia Coli organisms, that have been identified as biosafety level 1 species. These cells will be used as the precursors for the cell free system for the synthesis of the encapsulin-based vaccine. 
+
+
+*****
+Escherichia coli K-12 (MG1655; BW25113; JW1875; JW1873; JW1872; JW1871; JW1870; JW1908; JW3368; JW3367; SIG488)
+*****
+Escherchia coli DH5alpha, Top10, BL21
+Bacillus subtilis 168 
+*****
+Lorem ipsum dolor sit amet, ea his omnium vocent phaedrum. Assum suscipit ocurreret nec ut. An sed quas ipsum bonorum, velit deseruisse cotidieque ei cum, ei vivendo tractatos quo. Recteque complectitur pro ne, pri nullam contentiones no.
+*****
+E. coli strains: DH5-alpha, BL21 (DE3), MG1655, Top10.
+*****
+Corynebacterium glutamicum ATCC 14067: biosafety level 1 
+Escherichia coli DH5alpha: biosafety level 1 
+Escherichia coli BL21(DE3): biosafety level 1
+Caulobacter crescentus CB15/Atcc 19089: biosafety level 1
+*****
+Escherichia coli, Staphylococcus epidermidis, Clostridium acetobutylicum.
+*****
+We are using E. coli strains NEB Express and NEB 5-Alpha. E.coli NEB 5-alpha is used as the cloning strain and E. coli NEB Express is used as the expression strain.
+*****
+E.coli T-Fast strain;
+293T mammalian cell line;
+Ecotropic retrovirus, packed by pMSCV and pCL-Eco plasmids, for making stable mammalian cell lines;
+
+*****
+E.coli DH5-alpha; E.coli BL21; 293T; HeLa. 
+*****
+We will be using E. coli K-12 - DH5-alpha
+*****
+We will be using E.Coli DH5a and pichia pastoris. 
+*****
+E.coli only
+*****
+Bacillus subtilis 
+wild types: 168 (without trpC2), SP1 (wildtype)
+modified strains: BP233 (B. subtilis without gltT), BP234 (B. subtilis without gltP), BP235 (B. subtilis without gltT and gltP), BP236 (B. subtilis with two gltT copies), BP237 (B. subtilis with deleted gltT, but a new gltT copy at the amyE locus)
+
+Escherichia coli (also listed in the spreadsheet!)
+DH5 alpha (fhuA2 lac(del)U169 phoA glnV44 80' lacZ(del)M15 gyrA96 recA1 relA1 endA1 thi-1 hsdR17) 
+XL1 blue (recA1 endA1 gyrA96 thi-1 hsdR17 supE44 relA1 lac)
+XL1 red (endA1 gyrA96 thi-1hsdR17 supE44 relA1 lac mutD5 mutS mutT)
+*****
+We will use non pathogenic E.coli strains and the bacteriophage P1. 
+*****
+Our chassises are Escherichia coli (strain DH1 and DH5alpha) and Saccharomyces cerevisiae (strain BY4741). Besides these chassises we use in lab,  we also want to observe the behaviour of stray cats out side the lab with a cat house that we specially design to aid feeding and trapping streets cats highly alert so that we can bring them to vets for castration and health examination. Details are provided in the animal use form.
+*****
+Pseudomonas aeruginosa is an opportunist pathogen against humans and is the most commonly used strain in the laboratory. It is a gram negative bacterium with a DNA of about 6.3 Kbp length.
+
+We are working on attenuated bacterial strains such as: Pseudomonas aeruginosa PAO1. Indeed, their virulence genes have been removed to make them non-pathogenic for humans. 
+
+For our proof of concept, we are using a synthetic fragment of the bactrium's DNA. So here, the bacteria itself is not used here. 
+
+However, we use those bacterias to show efficiency of the bacteriophages as they need to be as specific as possible to a bacterium. So, we manipulate bacteriophages which are viruses that only infect bacteria in the most specific way. 
+The bacteriophages we are using are PAKP3 and HER18. PAKP3 is a specific bacteriophage against Pseudomonas aeruginosa PAK strain. HER18 is specific to Pseudomonas aeruginosa PAO1.
+
+All our manipulations regarding biobricks will be done using the strain Escherichia coli DH5alpha and TOP10. Indeed, we are transforming them so that fluorescence is emitted and detected. 
+*****
+The host organism will be Saccaromyces Cerevisiae BY4741. 
+e.coli DH5a will be used during plasmid construction
+
+*****
+Aedes aegypti densovirus 
+E.coli DH5a
+Aedes albopictus larvae, used to test our device
+
+*****
+We will use Lactococcus lactis NZ9000 as chassis.The strain is derivatives of L. lactis subsp. cremoris MG1363, a plasmid-free progeny of the dairy starter strain NCDO712.
+The most commonly used host strain is NZ9000. To construct this strain the genes for nisK and nisR were integrated into the pepN gene of MG1363. Two genes are transcribed from their own constitutive promoter. In the strain NZ9000 nisin genes were inserted into a neutral locus.
+*****
+We are planning to use E.coli strain DH5 alpha. 
+*****
+Anopheles gambiae, plasmodium berghei, E. coli DH5a, BL21, Cyanobacteria (no further information yet)
+*****
+
+E. Coli., strains: BL21 and DH5a, TOP10
+
+*****
+Escherichia coli (DH5-A and BL21(DE3)pLysS). Sequence for the recombinant protein will be obtained from the centromeric retrotransposon subfamily CR2 of Zea mays. 
+*****
+Yeast BY4741.
+Escherichia coli DH5-alpha
+
+*****
+Escherichia coli: 5-alpha Competent E. coli (NEB)
+Saccharomyces cerevisiae st. YPH499, YPH500, YPH501, YMS2w303
+Arabidopsis thaliana
+Agrobacterium tumefaciens GV3101
+*****
+Escherichia coli DH5 alpha, and E. coli BL21 (DE3)
+*****
+BL21(DE3) Competent E. coli will be used for protein expression.
+NEBÃ‚Â® 5-alpha  Competent E. coli (High Efficiency) will be used as a library strain.
+*****
+We will transform NEB 10-beta Competent E. coli (K12 Strain) to carry plasmids which consist of the new parts designed by our team. The parts can be expressed to form single-strand DNA theoretically. Apart from E. coli, no other organisms will be involved. 
+*****
+E .coli DH5-alpha, MCF7 Breast cancer cells
+*****
+Shewanella oneidensis mr-1 
+E. coli DH5 alpha
+*****
+E. coil
+*****
+E. coli, Agrobacterium tumefaciens, Tobacco, Arabidopsis Halleri
+*****
+We will use E. coli as cloing host and the Gram-negative bacterium Zymomonas mobilis, a GRAS (Generally regarded as safe) strain, for biofuel production.  
+*****
+E.coli (TOP10, DH5-Alpha, WM3064)
+Cyanobacteria
+Rhodopseudomonas palustris
+Shewanella(MR-1)
+
+*****
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+*****
+One bacteria that is able to live in Low PH conditions.
+*****
+We plan to use Bacillus subtilis subtilis 168.
+*****
+1. E. coli strains - DH5Alpha, BL21 (DE3), MG1655 and MG1655 derivatives that are resistant to T4 (isolated in the lab).
+
+2. T4 phage
+
+3. Mouse (Mus musculus) monocyte cell line for chemotaxis assay of mcp-1.
+
+*****
+1. Escherischia coli(DH5aplha)
+
+2. Pichia pastoris(GS115)
+*****
+Bacteria: Escherichia coli (BL21DE3 and DH5alpha), Lactobacillus acidophilus.
+*****
+Saccharomyces cerevisiae BY4741 (taxid:1247190)
+*****
+A. baylyi ADP1 (Expression host) please see the link below for further information.
+(https://www.dsmz.de/catalogues/details/culture/DSM-24193.html).
+This a Gram negative coccus non-motile non-pathogenic bacteria that possess many
+interesting traits for industrial biotechnology.
+*****
+E. coli DH5-Alpha, E. coli  DH5-Alpha Z1
+*****
+E.coli(DH5 alpha), E.coli BL21(DE3) and E.coli(K12)
+*****
+E. coli strains:
+- NEBTurbo (F' proA+B+ lacIq Delta lacZM15 / fhuA2  Delta(lac-proAB)  glnV galK16 galE15  R(zgb-210::Tn10)TetS  endA1 thi-1 Delta (hsdS-mcrB)5  ); 
+-MG1655 standard E.coli strain used for physiological studies(lambda-, rph-1); 
+-DH5alpha standard cloning strain(dlacZ Delta M15 Delta(lacZYA-argF) U169 recA1 endA1 hsdR17(rK-mK+) supE44 thi-1 gyrA96 relA1);  
+-DJ901 (Delta(argF-lac)169, lambda-, IN(rrnD-rrnE)1, rpsL179(strR), zjc-2205::Tn10kan, Delta(soxS-soxR)566). 
+*****
+E. coli, DH5-alpha; Bacillus subtilis, based on strain 168, acquired from Bacillus Genetic Stock Center (BGSC)
+*****
+We will use Lactococcus lactisNZ3900 and Lactococcus lactis NZ9000 which are generally recognized as safe status. There is no virus being used.
+*****
+We use E.coli DH5a as chassis for plasmids amplification and gene expression.
+*****
+E.coli DH5alpha (K12 strain). These cells will be used to propagate our plasmids. We would like to transfer a synthetic DNA-Sequence from Plasmodium into the plasmids. We aim to use this sequence as a template as a positive control for a PCR to develop a PCR-test-system for the detection of Plasmodium.  
+
+E.coli Xl1 blue (K12 strain). These cells will be used to propagate our plasmids as an alternative to DH5 alpha. We would like to clone synthetic subgenomic DNA-sequence from Plasmodium into the plasmids. We aim to use this sequence as a template as a positive control for a PCR to develop a PCR-test-system for the detection of Plasmodium.  These strains have been used for the Interlab Study.
+
+We used HEK293T cells. Cells were transfected with GFP expression plasmids as a source for gfp RNA. This RNA was isolated and used to establish our test systems. 
+
+If the vote for our safety check-in for genomic DNA of Plasmodium species is positive we would like work with non-infectios and non-toxic genomic DNA of Plasmodium. It will be provided to us from another lab who will extract the DNA from their cultured Plasmodiums (safety level 2 orgnaism: see https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-100.pdf?__blob=publicationFile, page 46).
+
+If our check-in and our institutional ethics committee's vote for using human blood samples is favourable, we would like to use inactivated blood samples of individuals infected with malaria and from individuals without the disease to document the specificity. 
+*****
+DH5alpha
+*****
+E.coli (Dh5a, JM109) 
+Yeast (Sacchatomyces cerevisiae)
+*****
+Escherichia Coli K-12 derivatives DH5alpha, TOP10 and XL1Blue.
+*****
+DH5-Alpha E.coli, BL21 Competent E. coli, BW 25113 E. coli
+*****
+Escherichia coli DH5alpha
+Saccharomyces cerevisiae 
+Zygosaccharomyces.rouxii
+*****
+E.coli DH5a TOP10 DH10b
+*****
+Our project is based on the detection of Cholera; however, due to our safety restrictions, our team will not be in contact with any strains of V. cholerae. Our lab has been cleared through the Check-In Form to develop a biosensor for Cholera. There will be no contact with these organisms in order to prevent any violations and safety obstructions under iGEM's restrictions.
+
+
+*****
+We intend to use E.coli DH5alpha and B.subtilus 168 as our chassis organisms and Streptomyces(S.Coelicolor, S.Griseus)as an inducer of antibiotic stress on our chassis organisms.
+*****
+E-coli strain DH5alpha and BL21 DE3
+*****
+In order to clone the necessary proteins being used in our experiments, We will be using E.coli DH5alpha and/or BL21DE3 strains. We are using only the capsid proteins from T4 bacteriophage which is therefore non-reproductive and non-pathogenic. 
+*****
+The Escherichia coli BL21 DE3 Gold strain. The E.coli BL21 DE3 Gold strain doesn't have an efficient protein degradation system and will therefore not survive outside the lab. 
+The Escherichia coli XL1 Blue strain.
+The Escherichia coli NEB5 Alfa strain.
+*****
+E. Coli (w3110)
+*****
+E. coli BL21, E. coli TG1, E. coli Dh5-alpha.
+*****
+Gastric cancer cells: MKN45, SGC7901, MGC803
+human embryonic kidney 293T cells(HEK 293T cells)
+Bacteria: E.coli Stbl3, E.coli DH5 alpha
+Viruses: HIV derived lentivirus (iGEM organization's Safety an Security Committee approved )
+*****
+Escherichia coli DH5-Alpha
+NEBÃ‚Â® Turbo Competent E. coli (High Efficiency)
+*****
+We will use K12 DH5alpha E.coli strains for the interlab experiment.
+*****
+E.coli k-12
+*****
+E.coli NEB5-alpha
+E.coli JM109
+Lactococcus lactis NZ9000
+*****
+Vibrio natriegens (ATCC 14048)
+E. coli (NEB Turbo, MG1655, DH5alpha)
+
+*****
+E. coli
+HEK293 cell line
+Retroviral vectors
+Phoenix cells
+NMuMGNT mouse cell line
+*****
+ E.coli DH5a and E.coli BW 25113
+*****
+We are planning to use two strains of E. coli (DH5alphas for cloning and BL21 protein expression).
+*****
+We will be using Escherichia Coli (DH5 alpha)
+*****
+E. coli ethanologenic strain KO11
+E. Coli DH5-alpha 
+
+
+*****
+We will be using DH5 Alpha Competent E.coli. 
+*****
+Panicum virgatum, Brachypodium distachyon, Pseudomonas moraviensis, Escherichia coli, Fusarium oxysporum, Trichoderma asperellum, Mortierella alpina, Mortierella minutissima, Mortierella elongata
+*****
+1. C6/36 cell line from Aedes albopictus which is bought from Bioresource Collection and Research Center in Taiwan.
+2. Drosophila S2 cell line is given by Prof. Kuang-Hui Lu at National Chung Hsing University
+3. E. coli DH5alpha competent cells are purchased from the biotech company of Geneaid Inc.
+4. Aedes aegypti adult mosquitoes are bred by the mosquito lab of Prof. Wu-Chun Tu at National Chung Hsing University. The mosqutioes are used to test the blood sucking behavior under strict regulation and instruction by the supervisor of Dr. Hou-You Tzeng from Prof. Tu's Lab. The experiment are performed by human hands wearing air-permeable gloves to attract the mosquitoes and observing mosquitoes' behavior. 
+
+
+*****
+e-coli jw3841-1
+e-coli xl1-blu
+e-coli xl10-gold
+e-coli BL21-DE3
+*****
+ Escherichia coli DH5-alpha. Arabidopsis thaliana, and Agrobacterium tumefaciens, and Agrilus planipennis. 
+*****
+The mammalian cells being used are Human embryonic kidney cells 293 (HEK293) cells. The bacterial strain being used to test if the mammalian cells can properly sense and react to bacteria is Streptococcus mutans UA159.
+
+*****
+We will be using Lactobacillus jensenii (ATCC 25258), E. coli for the cloning (DH5) and Bacillus subtilis. If possible (see the ethical animal use form) we will be using mouse spermatozoa.
+*****
+E. coli DH5alpha, BL21star, Rosetta2, Turbo, MG1655, DH5alpha lambda-pir, E. coli K12 
+T7 phage, T4 phage, MS2 phage 
+We also plan to sequence and de novo sequence bacteriophages from the Queen Astrid Hospital from Belgium, namely FFP, 3S and NES. 
+*****
+We are using E.coli BL21 or JM109 cells for engineering the whole cell bioinorganic hybrid system of nitrogen fixation. 
+*****
+We plan to use E.coli DH5alpha, 293T, HepG2, MRC-5, HeLa, SKOV3, A549, HT29 cell lines, recombinant plasmid vector and recombinant adeno-associated virus.
+*****
+E. coli DH5a, jurkat cell line , Lentivirus(vector, for transfection),293t cell line
+*****
+Escherichia coli (TOP 10)
+Agrobacterium tumefaciens (GV3101)
+Alternaria alternata
+Arabidopsis thaliana
+Nicotiana benthamiana
+*****
+E.coli: K12 MG1655;
+Yeast: BY4742; BY4742 elongase knock out; BY4742 delta desaturase knock out;
+*****
+E.coli bL21(DE3)
+E.coli DH5alpha
+Burkholderia cenocepacia 869T2 (genes)
+Burkholderia phytofirmans PsJN 
+Bacillus subtilis rm125
+Bacillus subtilis 9166
+Bacillus subtilis 9797
+Termitomyces T984  (genes)
+Arabidopsis thaliana 
+Vetiveria zizanioides
+Human skin cell Hs68 for MTT cell viability test
+Human liver cell Hep G2 for MTT cell viability test
+S. cerevisiae
+
+*****
+Escherichia coli strains BL21(DE3), DH5alpha, W3110, W3110-L5T7 and MG1655
+*****
+Bacillus subtilis, Ã‚ÂBacillus megaterium, Bacillus coagulan
+E. coli ER2566, E. coli DH5 alpha
+
+*****
+We are using a strain (K 12) of Escherichia coli called DH5alpha.
+*****
+Escherichia coli: DH5 alpha
+Yeast: Saccharomyces cerevisiae
+*****
+Escherichia coli: Nissle 1917, DH5-alpha, BL-21, K-12
+
+*****
+Escherichia coli: K-12 strain.
+Plasmid: pET-28, pCDFDuet-1.  
+*****
+Escherichia coli (DH5alpha)
+Pseudomonas fluorescens (CT 364)
+Arabidopsis thaliana
+Azorhizobium caulinodans (ORS571)
+Azospirillum brasilense (SP245)
+Herbaspirillum seropedicae (Z67)
+
+*****
+We will be using Escherichia coli (E. coli DH5-Alpha) bacteria to generate our plasmids. Then we will treat huntingtin cell lines (HeLa/polyQ-mCFP) with the plasmid.
+
+*****
+C57BL6 mouse
+DH5-Alpha E.coli
+293T
+AAV2 
+*****
+E.coli JM110 genome: rpsL thr leu thi lacY galK galT ara tonA tsx dam dcm  glnV44 (lac--proAB)(deleted) e14--[F prime traD36 proAB+ lacIq lacZM15(deleted)] hsdR17(rK--mK+)
+Bacillus amyloliquefaciens LL3: G+ upp(deleted) bamR(deleted) pMC1 GC%41.95
+Bacillus subtilis 168: G+ upp(deleted) bamR(deleted)
+
+*****
+Staphylococcus epidermitis (ATCC 12228), Bacteriophage 71, DH5alpha, Rosetta
+*****
+The iGEM Team will be working with E. coli, strains DH5-alpha and NEB Turbo, as the bacteria in which we will be designing our plasmids and using as competent cells. 
+*****
+E.coli DH5 alpha, E. coli sexpress (NEB express + R702)
+C.difficile 1801 (clinical isolate), C.difficile bacteriophage
+
+*****
+Saccharomyces cerevisiae W303
+Saccharomyces cerevisiae BY4741
+Saccharomyces cerevisiae BY4743
+Saccharomyces cerevisiae VL6-48N
+E.coli DH5 alpha 
+*****
+We use a human embryonic kidnet cell line, HEK293 cells, and DH5a E.coli strain as well as BL21 E.coli strain in our experiments.
+*****
+We would like to use E. coli and Vibrio harveyi, which are biosafety level 1.
+The strain of E. coli is DH5alpha.
+*****
+E. coli (strains: DH5a and TG1)
+
+
+*****
+K-12 strain of Escherichia coli and its chemically competent derivatives like STBL3 and BW25141 are used for cloning and directed evolution. Experiments will also be performed in common human cell lines like HEK293T cells.
+*****
+We are planning to use E.coli B strain, E.coli K-12, lentivirus TG006 and plv-EGFP.
+*****
+E coli Bacteria strain: E.Coli DH5alpha, BL21DE3 and C3040 (NEB Stable). Such strains have been modified such that the pathogenic gene islands has been removed and the strain used is considered non-pathogenic.
+
+Mammalian cell lines: HEK293T cells, Human embryonic kidney cells that have been transformed and immortalised with SV40 large antigen. The usage and the manipulation of this cell line will only be carried out in a Class II biohazard hood.
+*****
+Synechococcus Elongatuc PCC 7942, Escherichia coli TOP10, Escherichia coli dh5alpha
+*****
+We use E.coli in our experiment. The strains are DH5-alpha and BL-21 Rosetta
+
+*****
+Our chassis organisms include E. coli strains DH5-Alpha and BL21, and human Dermal Papilla-derived cell line and HEK293.
+*****
+
+E Coli  D5Halpha 
+*****
+We will be using strain SCK6 of a bacteria called Bacillus Subtilis.
+
+
+
+*****
+E.coli DH5a, a common model bacteria.
+
+
+*****
+E. coli DH5 alpha
+E coli BLR (DE3)
+*****
+We will screen our antimicrobial peptides for efficacy against a small diversity library of BSL-1 microbes.
+
+E. coli ATCC 25922
+B. subtilis ATCC 6633
+C. freundii ATCC 8090
+M. smegmatis ATCC 19420
+
+After getting our preliminary results, we may move to more detailed studies including BSL-2 organisms. We have training, facilities and mentorship to handle BSL-2 in our lab space. This form will be updated with additional strains as they arise.
+*****
+For cloning, we will be using DH5-alpha-Escherichia coli. 
+For gene expression, we will be using BL21-DE3-Escherichia coli. 
+For testing antimicrobial capacity of our biopeptide, we will be using Staphylococcus aureus. 
+For primary neuronal cells, we will be using Sprague Dawley E18 embryonic cortex,sold by BrainBits UK.  
+
+*****
+E. coli: DH5alpha, Rosetta (DE3), TOP10; 
+Yeast: Saccharomyces cerevisiae strain W303
+*****
+E. coli K12 (S1030)
+E. coli K12 (DH5-alpha)
+*****
+E. Coli K-12
+Shewanella oneidensis
+*****
+We plan on using Escherichia coli (DH5a and DH10B) and Saccharomyces cerevisiae
+*****
+We are using the E. coli strains DH5-alpha and BL21-DE3. 
+*****
+We are using Ecoli DH5-ALPHA as our chassis organism.
+*****
+E. coli K12 and its derivates E. coli KRX and E.coli DH5alpha, Xanthomonas campestris B100, Bacillus subtilis
+*****
+E. coli strain MG1655
+E. coli strain NEB5Alpha
+
+*****
+Escherichia coli (MG1655, DH10B, Nissle 1917, Bl21), Psuedomonas putida F1, Sinorhizobium meliloti 1020, Bacillus subtilis ATCC 6051, Lactococcus lactis ATTC 11007, Shewanella oneidensis Mr-1, Corynebacterium glutamicum ATC 13032
+*****
+Chassis:
+E. coli TOP10, NEB10B, and BL21 (DE3)
+E. coli CT104 (a K-12 W3110 derivative that is a luxS and lsrFG knockout)
+
+Indicator Organisms:
+V. harveyi BB170 (substrain of BB120, luxS knockout, kanamycin resistant) 
+E. coli JLD271 + pAL105 (K-12 derivativeÃƒÂƒÃ…Â½ÃƒÂ‚Ã¢Â€ÂlacX74sdiA271::Cam, pSB401-derivative, lasR+lasI::luxCDABE)
+*****
+Escherichia coli strains: NEB10Beta, K12, Bl21 (DE3) 
+
+NEB10 beta Genotype:  ÃŽÂ”(ara-leu) 7697 araD139  fhuA ÃŽÂ”lacX74 galK16 galE15 e14-  ÃÂ•80dlacZÃŽÂ”M15  recA1 relA1 endA1 nupG  rpsL (StrR) rph spoT1 ÃŽÂ”(mrr-hsdRMS-mcrBC) 
+
+K12 Genotype: F- lacZ(am) pho(am) tyrT[supC(ts)] trp(am) rpsL(StrR) rpoH(am)165 zhg::Tn10 mal(am)
+
+Bl21 (DE3) : fhuA2 [lon] ompT gal (ÃŽÂ» DE3) [dcm] Ã¢ÂˆÂ†hsdS
+ÃŽÂ» DE3 = ÃŽÂ» sBamHIo Ã¢ÂˆÂ†EcoRI-B int::(lacI::PlacUV5::T7 gene1) i21 Ã¢ÂˆÂ†nin5
+
+No other organismes are used. 
+*****
+Escherichia coli DH5 alpha
+Escherichia coli BL21 (DE3)
+
+*****
+We were planing to use Vibrio anguillarum and KVP-40 or any other effective vibrophage on a theroic level 8 ( In this stage, We will not be using any living organisms ) (MLII level). Following years, our next iGEM team will focus omn lab experiments.
+*****
+We do not plan to use any organism
+*****
+Synechocystis sp.(FACHB-898); Scytonema javanicum(FACHB-887); Microcoleus vaginatus(FACHB-253); Acetobacter xylinum(ATCC23767); Escherichia coli DH5alpha; Escherichia coli DH10B;
+*****
+Escherichia coli DH5 alpha strain
+Escherichia coli BL21(DE3) strain
+
+*****
+E.coli and Yarrowia lipolytica.
+*****
+We are going to use Corynebacterium glutamicum in our project. It is a kind of food-grade microorganism with the advantages of easy culture and no production of sporulation. It is an important industrial production strain and is wide applied in amino acid industrial production.
+*****
+E.coli ( BL21) 
+ 
+*****
+we will only use E. coli in our project. we will use three strains, one is DH5 alpha, which is a common strain used for transformation, another is Top 10 strain in which GFP and RFP gene have been inserted into chromosome, and we will use another type of TOP 10 strain in which type I CRISPR Cas3 protein has been knocked out.
+*****
+DH5-a E.coli
+
+*****
+E.coli
+*****
+Lactobacillus delbrueckii ND02
+Lactobacillus brevis
+Candida albicans
+*****
+E. coli k-12 strain, B. subtilis wild-type strain
+*****
+Possible plants: Nicotiana tabacum and Arabidopsis thaliana. We have not decided yet. We believe that bioluminescent tobacco will be very beautiful, but arabidopsis is much easier to plant.
+*****
+We are not using any whole organisms.
+*****
+E.coli (DH5alpha, MG1655, BW25113 and BW25113 with OmpA gene knocked out)
+*****
+E.coli Nissle, E.coli BL21(DE3), E.coli DH5alpha, colon cancer cell HT-29, human immortalized epidermal cells HaCaT, laboratory mouse C57BL/6
+*****
+None
+*****
+We will use E.coli GB2005 Dir as our tool for gene engineering. We will also use  pseudomonas fluorescens strain Pf-5 and pseudomonas putita S16, who are not included in the white list, in our project. Their bosafety levels are all level 1( Biosafety classification is based on U.S. Public Health Service Guidelines).
+
+*****
+We use E.coli(Top10) and AAV9 in our experiment. E.coli is used for amplification of the objective gene. AAV9 is used for gene delivery.
+*****
+Escherichia Coli dh5a and Lactococcus lactis pNZ9000.
+*****
+In our project we plan to use :  
+- Bacteria : Escherichia coli NEB beta10
+- Microalgae : Chlamydomonas reinhardtii (CC124x[CC-1952x(CC-1952xCC-2343)]).
+*****
+We will use Phyllotreta striolata (Coleoptera: Chrysomelidae) in our project.
+*****
+Food grade Bacillus subtilis 168, widely distributed in soil and spoilage organic matter, is easy to propagate in dry soaked juice.
+*****
+In order to facilitate the proof-of-concept of our project we will utilize Escherichia coli to confirm that our components are working. The specific strain of E. coli to be utilized is Dh5-alpha, a strain that is utilized for laboratory cloning due to its high efficiency transformations.
+*****
+Escherichia coli 
+Ganoderma lucidum
+Arthrospira platensis
+Anabaena variabilis
+Mucor circinelloides
+Bacillus subtilis
+
+*****
+P. pastoris WT -X33 and Escherichia coli (E. coli) TOP10. Also, for the InterLab study: E. coli strain DH5-alpha. Additionally, we are going to perform ecotoxicological tests. For these tests, the organisms E. coli (TOP10), Bacillus subtilis (ISW1214) and Vibrio fischeri will be used.
+
+*****
+Synechococcus leopoliensis UTEX 2434 (Synechococcus elongatus PCC 7942), Escherichia coli DH5alpha, Escherichia coli DH10beta, Escherichia coli HB101
+*****
+We are aiming to engineer Escherichia coli strain DH5alpha, strain JM109, strain BL21(DE3) and Pseudomonas putida KT2440.
+*****
+E.coli - BL21(DE3) Competent Cells.
+
+*****
+HEK293(human embryonic kidney) cell line, mouse L-Wnt3A cell line(mouse subcutaneous connective tissue), E.coli(DH5alpha) , lentivirus 
+*****
+E. Coli DH5alpha strain for molecular cloning
+Jurkat T cell leukemia cell line and HEK293T cell line as chassis
+HEK293T cell line for lentivirus packaging
+lentivirus vectors for gene transduction
+*****
+Escherichia coli(DH5-alpha)
+*****
+Metarhizium anisopliae CQMa128, formerly known as Entomophthora anisopliae (basionym), is a fungus that grows naturally in soils throughout the world and causes disease in various insects.
+cockroach, use to test the ability of wild-type fungus. And we will use the cuticula of the cockroach to detect the infection ability of our GMO.
+*****
+Tacoma RAINmakers are employing 5-alpha competent E. coli cells (DH5-Alpha strain). According to the Globally Harmonized Systems (GHS), this organism is not a dangerous substance or mixture. Per Centers for Disease Control and Prevention (CDC), this organism can be handled at Biology Safety Level One (BSL-1). The CDC goes on to state that 5-alpha competent E. coli cells present no risk of disease in immunocompetent adult humans and no hazard to laboratory personnel and the environment. 
+*****
+E. coli DH5alpha
+NEB  5-alpha Competent E. coli (High Efficiency)
+S. cerevisiae strain CEN.PK 2-1C
+*****
+Escherichia coli K-12 DH5a
+Lactococcus lactis
+Escherichia coli Nissle 1917
+Lactobaccillus casei
+*****
+Escherichia coli BL21(DE3)
+Escherichia coli TOP10
+Escherichia coli DH5a 
+Paenibacillus larvae: Non-human pathogen, risk group 1, gram-positive, endospore-forming, faculative anaerobe.
+Melissococcus plutonius: Non-human pathogen, risk group 1, gram-positive, obligate anaerobe.
+*****
+E.coli BL21 (DE3) and DH5a are  Risk Group 1 laboratory strains of E. coli that have a low, but not non-existent, virulence.  Although organisms classified as Risk Group 1 are not known to consistently cause disease in healthy adults.
+
+Young, elderly immunocompromised individuals, or individuals that have been taking large quantities of antacids or stomach acid reducing medications may have an increasing risk of get disease from E.coli.  
+
+Inflammation may occur if autoinoculation results from injection or contamination of broken skin. 
+*****
+We are planning on using different strains from E. coli K-12 derivates. 
+*****
+Escherichia coli BL21 gold
+Lactobacillus rhanmosus GG
+
+*****
+E. coli - DH5alpha
+E. coli - XL-1 Blue
+E. coli - CC 118 lambda-pir
+E. coli - INVaF'
+E. coli - C43(DE3)
+Vibrio natriegens - ATCC 14048
+*****
+Our team uses Yeast BY4741 from S288C, E.coli DH5ÃŽÂ± and E.coli Top10 in the experiments.
+*****
+1. E. coli BL21 (DE3)  Genotype: F-, ompT, hsdSB (rB- mB- ), gal, dcm (DE3).
+
+2. E. coli DH5alpha Genotype: F-, phi80dlacZdeltaM15, delta (lacZYA-argF) U169, deoR, recA1, endA1, hsdR17 (rk-,mk+), phoA, supE44, lambda-, thi-1, gyrA96, relA1.
+
+3. COS7-GFP cell (a continuously cultured African green monkey cell line).
+
+4. HEK293 (human embryonic kidney 293 cells).
+
+5. Hela cell(a continuously cultered human cell line).
+*****
+E. coli (DH5alpha) for construction
+Mammalian cells (HEK293T cells, Vero cells) for viral particle production and assay
+Virus (One-time-infectious dengue virus / Can be treated in P1 facility)
+*****
+we are not using an organism.
+*****
+Escherichia coli, DH5-alpha
+Attenuated Pseudomonas aeruginosa, delta 8, delta 9
+Mouse immune cells
+HeLa cells
+Mice (Mus musculus)
+*****
+E. coli with particular strains: DH5alpha, DH10beta, Mg1655deltalacI, Bl21 (DE3)
+*****
+We will use the yeast Pichia pastoris (strains X33 and GS200) and the bacterium Escherichia coli (BL21) for protein production and purification. The bacterium Gluconacetobacter hansenii will be used for bacterial cellulose production.
+
+
+*****
+We will be using E. Coli as our organism for the project.
+*****
+We use E.coli in our experiment. The strains are DH5-alpha, BL21(DE3) and Stellar.
+*****
+1\Option one
+S. cerevisiae, CEN.PK2-1C derived strain: MAT a leu2-3,112 ura3-52 trp1-289 his3-delta1 MAL2-8c SUC2 Sst2 ::HIS3, far1::URA3, ste2::TRP1
+
+2\Option two
+E. coli, JT2.
+
+
+*****
+Escherichia coli BL21 (DE3)
+Escherichia coli DH5 alpha
+Escherichia coli NovaBlue
+Escherichia coli BLR
+Staphylococcus epidermidis (Winslow and Winslow) Evans (ATCC 14990)
+*****
+For molecular cloning, we are using bacterial E. coli strain DH5alpha.
+For expressing our construct, we are using bacterial E. coli strain BL21(DE3) and BL21(AI), in order to enable inducibly controlled expression. 
+
+There are no other strains used in this project.
+*****
+We will work in E.coli Lemo21(DE3). These contain a tunable T7 expression strain for difficult targets like membrane proteins and toxic proteins. All important information can be found on the data sheet: https://www.neb.com/-/media/catalog/datacards-or-manuals/c2528datasheet-lot7.pdf 
+Our readout system for the neuronal shuttle system will be the human derived  neuroblastoma cell line SHSY5Y.
+
+*****
+None except for those specified in the interlab
+*****
+Escherichia coli DH5alpha
+
+
+*****
+E.coli DH5alpha
+E.coli Top10
+S.cerevisae CEN.PK 1C
+S.cerevisae CEN.PK113-1A H3847
+S.cerevisae CEN.PK113-1A H3991
+Pseudomonas Putida KT2440
+
+human Caco-2 cell-line
+*****
+We will be using Escherichia coli (strains DH5a, DH10B, BL21(DE3)) for our genetic manipulations. For in vivo testing of our porphyrin molecule treatments, we plan to be working with Western honey bees (Apis mellifera) and Nosema ceranae.
+*****
+We are planning to use parts (pJFR1, pJFR2, pJFR3, pJFR4, pJFR5 et.al) and the Escherichia coli strain JF1 ,which are designed and examined in previous study of Prof. Christopher A Voigt in 2017 and safe enough.
+*****
+Centromeric Yeast Plasmid: P. pastoris Strain PPY12
+
+Biofuels Project: Synechococcus sp. PCC 7002 (ATC 27264)
+
+Both projects will use a variety of E. coli strains that are available to us for transformations. They are: DH5a, DH10B, mach1, and Stellar competent cells. 
+*****
+The only organism we are using is the E. coli DH5alpha for the intlerlab study. In the main project we will use cell-free aptazymes which are directly requested as oligonucleotides to IDT.
+*****
+No any additional organisms except the chassis.
+
+*****
+E coli (K12, BL21, TOP10, DH5alpha) 
+Eventually an other Gram negative bacteria (BL1, non-pathogen) to test the interspecies conjugation.
+*****
+Escherichia coli (K-12) is our chassis. We are also obtaining parts from Pseudomonas aeruginosa (PAO1).
+*****
+Yarrowia Lipolytica.
+*****
+We will be using the DH5-a strain of E. coli.
+*****
+E. coli DH5a competent cells will be used as vectors for the MBD-GFP constructs. This is the only organism we have planned to use.
+*****
+E.coli DH5a, E.coli BL21(DE3), E.coli BW25113, E.coli CICIM B0016, E.coli TOP 10, E.coli MC1061
+*****
+We do not use any organism for the reason that we are in the software track.
+*****
+The only organisms we plan to use in our project are various E. Coli strains.  Specifically, we plan to use E. Coli Dh5-alpha and E. Coli Nissle 1917.  These organisms are considered safe to work with, and E. Coli Nissle is generally recognized as safe by the FDA.
+*****
+Nicotiana Benthamiana, Dh5a E. coli
+*****
+Bacillus subtilis (168) and Escherichia coli (MG1655)
+*****
+The yeast strain that we are working with is Saccharomyces cerevisiae. The bacterial strain that we are using is Lactococcus lactis. We are also using E. coli to propogate shuttle vectors and our iGEM parts. 
+*****
+Escherichia coli, K-12 DH5alpha strain
+*****
+S. cerevisiae BY4741
+E. coli MC1061
+
+*****
+We are using the DH5 Alpha strain of E. coli. It is non-pathogenic and is a cloning strain with multiple mutations that offers the ability to enhance the efficiency of transformations. 
+*****
+Escherichia Coli K12 DH5a
+Escherichia Coli BL21 DE3 STAR
+*****
+We are not using an organism  
+*****
+Escherichia coli K-12 strains, including GeneHogs and DH5-alpha
+*****
+We are using bacteria (E. coli, B. subtilis and Lactococcus lactis). We're also using Caco-2 cell line.
+*****
+- NEB T7 Express Competent E. coli
+- NEB DH5-alpha Competent E. coli
+- NEB Lemo21(DE3) Competent E. coli
+
+- Rosetta E. coli will only be used as a last resort if protein expression does not work in the above three strains
+*****
+1. Escherichia coli - DH5a, BL21(DE3)
+2. Saccharomyces cerevisiae - W303a
+Both will be used as protein production hosts. 
+*****
+E.coli, strains: Top10, K-12, DH5-alpha, ZN-1
+*****
+E. coli MG1655 and DH5-alpha , The small strongyle (Cyathostominae), large strongyle (Strongylus vulgaris), M13KE phage (for the phage display).
+*****
+E. coli (DH5A or HB101)
+S. cerevisiae
+C. albicans 
+ 
+*****
+We are planning on using whole organism (E. coli DH5 alpha) using standard cloning procedures.  We will express the system in HEK293 cells using standard cell biology protocols.
+*****
+The only whole organisms we are going to use in our project are E. coli DH5a and DH10B. This strains are safe E. coli laboratory strains.
+*****
+The synthesized laccases will be produced through cloning genes from fungi Phoma sp UHH 5-1-03 and Pleurotus ostreatus. Also, a Trametes versicolor laccase from the Registry will be biochemically characterized. Those genes will be cloned and expressed in Eschericia coli BL21. In addition, a laccase from Thielavia terrestris UAMH 3264 will be expressed in E. coli rosetta-gami B and will be characterized.
+*****
+In our project, we use two E.coli strain called Top 10 to amplify our plasmids and BL21(DE3) to express our target proteins. And we will use G.xylinus to produce bacterial cellulose.
+*****
+None of these.
+*****
+Lab 1(RH)-E.coli strain RP437 and cheZ mutant strain UU2685
+         -E.coli strain NEB 5-Alpha and DH 5-Alpha
+
+Lab 2(RX)-E.coli strain Top 10, NEB 5-Alpha, and DH 5-Alpha
+         -Yarrowia lipolytica
+         -Byssochlamys nivea
+
+
+*****
+E. coli BL21(DE3) and E. coli Top10
+No other intact organisms will be used at this time. 
+*****
+E. coli DH5alpha
+E. coli UU1250, which is an E. coli strain that doesn't express chemotaxis receptors
+E. coli VS181 is an E. coli strain that, just like UU1250, is mutant for all chemotaxis receptors. In addition to this, it doesn't express CheY and CheZ. 
+
+*****
+Escherichia coli:
+YYC912: Delta(argF-lac)169 Lambda-  poxB15::lacZ::CmR IN(rrnD-rrnE)1 rph-1 tnaA5
+DB3.1: gyrA462 endA1 Delta(sr1-recA) mcrB mrr hsdS20 glnV44 (=supE44) ara14 galK2 lacY1 proA2 rpsL20 xyl5 leuB6 mtl1
+E. cloni 10G: F- mcrA Delta(mrr-hsdRMS-mcrBC) endA1 recA1 Phi80dlacZ DeltaM15 Delta lacX74 araD139 Delta(ara,leu)7697galU galK rpsL nupG Lambda- tonA (StrR)
+Vibrio Natriegens: ATCC 14048
+*****
+E. coli DH5a, TG1, BL21, DH10B, MG1655.
+*****
+We are not currently using or planning to use a live organism, our system is designed to be cell-free.
+*****
+E. coli K-12 strain W3110
+
+E. coli K-12 strain CT104 (luxS knockout, LsrFG knockout) pCT6 pET-GFP     Servinsky et al (2015)
+
+E. coli K-12 strain W3110 pCT6 pET-GFP-LsrK     Zargar et al (2016)
+
+E. coli K-12 strain W3110 pCT6 pET-GFP-LsrACDB     Zargar et al (2016)
+
+References to Publications:
+
+Servinsky et al (2015): https://www.nature.com/articles/ismej201589
+
+Zargar et al (2016): https://pubs.acs.org/doi/abs/10.1021/acssynbio.5b00261
+
+
+
+*****
+We are using E.coli (BL21 and DH5-alpha) strains.
+*****
+We are using:
+Bacillius Subtillus
+E.Coli K12 DH5 Alpha
+E.Coli K12 DH10 Beta
+E.Coli MG1655Z1
+
+We are NOT using:
+Any Bacteria of the genus Legionella 
+*****
+Yeast (S. cerevisiae) 
+M13 bacteriophage 
+E. coli (DH4-alpha, BL21, TG1)
+*****
+E. coli DH5alpha
+Saccharomyces cerevisiae EBY100
+
+*****
+We are planning on using Escherichia coli (E. coli) in our project. Regarding strains, we will be using DH5alpha, CC118 (ÃŽÂ»pir),  and Escherichia coli, RU1012 deltaPompC-lacZ (JT2). 
+*****
+We will be using bacterial cultures of the well researched laboratory E.coli bacteria, specifically DH5alpha, TOP10 and BL21 strains.
+*****
+We are using a kind of microalgae, the Scenedesmus Meyen, in this project. Many species in this family have strong resistance to organic pollutants, playing a role in self-purification of water bodies and sewage purification. It is a dominant family in the biological phase of organic wastewater oxidation pond.
+We are also using Escherichia coli BL21 as our engineering bacteria. This strain is used for efficient expression of target proteins. 
+
+*****
+E. Coli Strains 
+ - DH 5 Alpha
+ - 10 Beta
+ - BL21
+ - JS006 (MG 1655) 
+
+*****
+E. coli K12, Lambda Phage.
+*****
+ We will use four human cell lines to test the function of cloned lncRNAs and use the bacteria (E.coil DH5alpha) to amply the plasmids contained lncRNAs.
+*****
+E. coliDH5 alpha , E. coli BL 21
+E. coli DH5 alpha, E. coli BL21 
+E. coli DH5 alpha is a mutagenized strain that mainly exhibits immunological deficiency of foreign DNA. It is a strain used for genetic engineering and lacks a certain degree of immune mechanism compared to normal strains.
+In E. coli BL-21 , the activity of proteases is relatively low, so that the target protein is not easily degraded. In addition, BL21 contains T7 RNA polymerase induced by IPTG and therefore is suitable for protein expression induced by the T7 promoter.
+*****
+For bacteria, we are using E. coli (DH5/alpha/, EMG-2K/lambda/, NCTC9001) and Staphylococcus (S. epidermis, S. aureus).
+*****
+HEK-293,TOP10, DH5alpha
+*****
+E. coli: DH5a, BL21
+*****
+E.coli trans5alpha
+E.coli BL21
+Saccharomyces cerevisiae
+
+Strain
+1.
+gaattcgcggccgcttctagagttgacggctagctcagtcctaggtacagtgctagctactagagaaagaggagaaatactagatggccggcatgaaaaagacggcaatcgcgatcgcggttgcactggcgggctttgctacagtggcgcaagccggtggtggttctgcgcatattgtgatggttgatgcttataagccgactaagggtggtggttctgcccctaaagacaacacatggtacactggggcaaaactgggatggtcccagtaccacgacactggcttcattaacaataacggtcctacccacgaaaaccagttaggcgcaggtgcgtttggtggttatcaagtaaatccttatgttggatttgaaatgggctacgattggctgggtcgcatgccatataagggttcacaccaccatgttgaaaacggagcctataaagctcagggcgttcagcttacagcaaagttgggatacccaattactgcctccgacgatcttgatatctatactcgtttgggcggcatggtttggcgtgctgatacgaaatccaacgtttacggaaagaaccacgacacaggcgtgtctccggtgtttgcgggaggcgttgaatacgccatcactcccgagattgcgactcgcttagagtatcagtggacgaataacattggagatgctcatactattggtacccgccctgacaacggtatgctgtcgcttggagtgtcctatcgtttcggcggtggtggtggttctggtggtggtggttctatggtgagcaagggcgaggagctgttcaccggggtggtgcccatcctggtcgagctggacggcgacgtaaacggccacaagttcagcgtgtccggcgagggcgagggcgatgccacctacggcaagctgaccctgaagttcatctgcaccaccggcaagctgcccgtgccctggcccaccctcgtgaccaccctgacctacggcgtgcagtgcttcagccgctaccccgaccacatgaagcagcacgacttcttcaagtccgccatgcccgaaggctacgtccaggagcgcaccatcttcttcaaggacgacggcaactacaagacccgcgccgaggtgaagttcgagggcgacaccctggtgaaccgcatcgagctgaagggcatcgacttcaaggaggacggcaacatcctggggcacaagctggagtacaactacaacagccacaacgtctatatcatggccgacaagcagaagaacggcatcaaggtgaacttcaagatccgccacaacatcgaggacggcagcgtgcagctcgccgaccactaccagcagaacacccccatcggcgacggccccgtgctgctgcccgacaaccactacctgagcacccagtccgccctgagcaaagaccccaacgagaagcgcgatcacatggtcctgctggagttcgtgaccgccgccgggatcactctcggcatggacgagctgtacaagcaccaccaccaccaccactaataatactagagccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttatatactagtagcggccgctgcag
+
+2.
+gaattcgcggccgcttctagagttgacggctagctcagtcctaggtacagtgctagctactagagaaagaggagaaatactagatggccggcatgaaaaagacggcaatcgcgatcgcggttgcactggcgggctttgctacagtggcgcaagccggtggtggttctgcgcatattgtgatggttgatgcttataagccgactaagggtggtggttctgcccctaaagacaacacatggtacactggggcaaaactgggatggtcccagtaccacgacactggcttcattaacaataacggtcctacccacgaaaaccagttaggcgcaggtgcgtttggtggttatcaagtaaatccttatgttggatttgaaatgggctacgattggctgggtcgcatgccatataagggttcacaccaccatgttgaaaacggagcctataaagctcagggcgttcagcttacagcaaagttgggatacccaattactgcctccgacgatcttgatatctatactcgtttgggcggcatggtttggcgtgctgatacgaaatccaacgtttacggaaagaaccacgacacaggcgtgtctccggtgtttgcgggaggcgttgaatacgccatcactcccgagattgcgactcgcttagagtatcagtggacgaataacattggagatgctcatactattggtacccgccctgacaacggtatgctgtcgcttggagtgtcctatcgtttcggctaataatactagagccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttatatactagtagcggccgctgcag
+
+3.
+gaattcgcggccgcttctagagttgacggctagctcagtcctaggtacagtgctagctactagagaaagaggagaaatactagatggccggcatgaaaaagacggcaatcgcgatcgcggttgcactggcgggctttgctacagtggcgcaagccgcccctaaagataacacttggtatacaggtgcgaaattggggtggtctcagtatcatgacactggtttcatcaataataacggccctacccatgagaatcagcttggagccggagcttttggtgggtatcaggttaacccctatgtggggtttgaaatgggctacgactggttgggacgtatgccgtacaagggtagtcatcatcatgttgaaaacggtgcatataaggctcagggtgttcaactgacagcaaagttgggctaccccatcacagcatccgatgacctggacatctacactcgtcttggggggatggtatggcgtgcagacaccaagtcaaacgtatatggtaaaaatcacgacactggtgtgtcacccgttttcgcaggtggggttgaatacgcaatcaccccggaaattgcaacgcgcctggagtatcagtggactaataatatcggagatgcgcatacgatcggtactcgcccggacaacgggatgttatctcttggcgtttcgtatcgtttcggcggtggtggttctgcgcatattgtgatggttgatgcttataagccgactaagggtggtggtggttctggtggtggtggttctatggtgagcaagggcgaggagctgttcaccggggtggtgcccatcctggtcgagctggacggcgacgtaaacggccacaagttcagcgtgtccggcgagggcgagggcgatgccacctacggcaagctgaccctgaagttcatctgcaccaccggcaagctgcccgtgccctggcccaccctcgtgaccaccctgacctacggcgtgcagtgcttcagccgctaccccgaccacatgaagcagcacgacttcttcaagtccgccatgcccgaaggctacgtccaggagcgcaccatcttcttcaaggacgacggcaactacaagacccgcgccgaggtgaagttcgagggcgacaccctggtgaaccgcatcgagctgaagggcatcgacttcaaggaggacggcaacatcctggggcacaagctggagtacaactacaacagccacaacgtctatatcatggccgacaagcagaagaacggcatcaaggtgaacttcaagatccgccacaacatcgaggacggcagcgtgcagctcgccgaccactaccagcagaacacccccatcggcgacggccccgtgctgctgcccgacaaccactacctgagcacccagtccgccctgagcaaagaccccaacgagaagcgcgatcacatggtcctgctggagttcgtgaccgccgccgggatcactctcggcatggacgagctgtacaagcaccaccaccaccaccactaataatactagagccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttatatactagtagcggccgctgcag
+
+4.
+gaattcgcggccgcttctagagttgacggctagctcagtcctaggtacagtgctagctactagagaaagaggagaaatactagatggccggcatgaaaaagacggcaatcgcgatcgcggttgcactggcgggctttgctacagtggcgcaagccgcccctaaagataacacttggtatacaggtgcgaaattggggtggtctcagtatcatgacactggtttcatcaataataacggccctacccatgagaatcagcttggagccggagcttttggtgggtatcaggttaacccctatgtggggtttgaaatgggctacgactggttgggacgtatgccgtacaagggtagtcatcatcatgttgaaaacggtgcatataaggctcagggtgttcaactgacagcaaagttgggctaccccatcacagcatccgatgacctggacatctacactcgtcttggggggatggtatggcgtgcagacaccaagtcaaacgtatatggtaaaaatcacgacactggtgtgtcacccgttttcgcaggtggggttgaatacgcaatcaccccggaaattgcaacgcgcctggagtatcagtggactaataatatcggagatgcgcatacgatcggtactcgcccggacaacgggatgttatctcttggcgtttcgtatcgtttcggcggtggtggttctgcgcatattgtgatggttgatgcttataagccgactaagtaataatactagagccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttatatactagtagcggccgctgcag
+
+5.
+gaattcgcggccgcttctagagtcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaatgaatcggccaacgcgcggggagaggcggtttgcgtattgggcgccagggtggtttttcttttcaccagtgagacgggcaacagctgattgcccttcaccgcctggccctgagagagttgcagcaagcggtccacgctggtttgccccagcaggcgaaaatcctgtttgatggtggttaacggcgggatataacatgagctgtcttcggtatcgtcgtatcccactaccgagatatccgcaccaacgcgcagcccggactcggtaatggcgcgcattgcgcccagcgccatctgatcgttggcaaccagcatcgcagtgggaacgatgccctcattcagcatttgcatggtttgttgaaaaccggacatggcactccagtcgccttcccgttccgctatcggctgaatttgattgcgagtgagatatttatgccagccagccagacgcagacgcgccgagacagaacttaatgggcccgctaacagcgcgatttgctggtgacccaatgcgaccagatgctccacgcccagtcgcgtaccgtcttcatgggagaaaataatactgttgatgggtgtctggtcagagacatcaagaaataacgccggaacattagtgcaggcagcttccacagcaatggcatcctggtcatccagcggatagttaatgatcagcccactgacgcgttgcgcgagaagattgtgcaccgccgctttacaggcttcgacgccgcttcgttctaccatcgacaccaccacgctggcacccagttgatcggcgcgagatttaatcgccgcgacaatttgcgacggcgcgtgcagggccagactggaggtggcaacgccaatcagcaacgactgtttgcccgccagttgttgtgccacgcggttgggaatgtaattcagctccgccatcgccgcttccactttttcccgcgttttcgcagaaacgtggctggcctggttcaccacgcgggaaacggtctgataagagacaccggcatactctgcgacatcgtataacgttactggtttcacattcaccaccctgaattgactctcttccgggcgctatcatgccataccgcgaaaggttttgcgccattcgatggtgtctactagagtttacactttatgcttccggctcgtatgttgtgtgggaattgtgagcggataacaattcctactagagaaagaggagaaatactagatggccggcatgaataacaacgacttattccaagccagtcgccgtcgcttcctggcacaattagggggacttactgttgccggaatgcttggtccgagtttgttgaccccacgccgtgctactgcggcacaagctcgcggtagccatcatcatcatcatggtgggtctgttgatacgctttcaggattgtcatcagaacagggtcaatccggtgacatgactatcgaagaagacagtgcgacccacatcaaattctctaagcgcgatgaggatggtaaagaacttgcgggggctaccttggaattacgcgactccagtgggaagactatttcaacttggatttccgatggacaggttaaggatttctatctgtatcccggaaagtacactttcgttgagaccgctgctccagatggatatgaggtggcaacagccatcacatttacggttaatgagcagggtcaagttaccgtgaacggcaaggcgacaaagggggacgcgcatattggagggggatcaatgtacgtgagatttgaggttcctgaggacatgcagaacgaagctctgagtctgctggagaaggttagggagagcggtaaggtaaagaaaggtaccaacgagacgacaaaggctgtggagaggggactggcaaagctcgtttacatcgcagaggatgttgacccgcctgagatcgttgctcatctgcccctcctctgcgaggagaagaatgtgccgtacatttacgttaaaagcaagaacgaccttggaagggctgtgggcattgaggtgccatgcgcttcggcagcgataatcaacgagggagagctgagaaaggagcttggaagccttgtggagaagattaaaggccttcagaagtaataatactagagccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttatatactagtagcggccgctgcag
+
+6.
+gaattcgcggccgcttctagagactctgcgcgacctagttataaagaaagttaaaatgccgccagcggaactggcggctgtgggattatgacaacttgacggctacatcattcactttttcttcacaaccggcacggaactcgctcgggctggccccggtgcattttttaaatacccgcgagaaatagagttgatcgtcaaaaccaacattgcgaccgacggtggcgataggcatccgggtggtgctcaaaagcagcttcgcctggctgatacgttggtcctcgcgccagcttaagacgctaatccctaactgctggcggaaaagatgtgacagacgcgacggcgacaagcaaacatgctgtgcgacgctggcgatatcaaaattgctgtctgccaggtgatcgctgatgtactgacaagcctcgcgtacccgattatccatcggtggatggagcgactcgttaatcgcttccatgcgccgcagtaacaattgctcaagcagatttatcgccagcagctccgaatagcgcccttccccttgcccggcgttaatgatttgcccaaacaggtcgctgaaatgcggctggtgcgcttcatccgggcgaaagaaccccgtattggcaaatattgacggccagttaagccattcatgccagtaggcgcgcggacgaaagtaaacccactggtgataccattcgcgagcctccggatgacgaccgtagtgatgaatctctcctggcgggaacagcaaaatatcacccggtcggcaaacaaattctcgtccctgatttttcaccaccccctgaccgcgaatggtgagattgagaatataacctttcattcccagcggtcggtcgataaaaaaatcgagataaccgttggcctcaatcggcgttaaacccgccaccagatgggcattaaacgagtatcccggcagcaggggatcattttgcgcttcagccatacttttcatactcccgccattcagagaagaaaccaattgtccatattgcatcagacattgccgtcactgcgtcttttactggctcttctcgctaaccaaaccggtaaccccgcttattaaaagcattctgtaacaaagcgggaccaaagccatgacaaaaacgcgtaacaaaagtgtctataatcacggcagaaaagtccacattgattatttgcacggcgtcacactttgctatgccatagcatttttatccataagattagcggatcctacctgacgctttttatcgcaactctctactgtttctccatacccgtttttttgggaattgagctctaaggaggttataacatatgtactagagcaacctcgactaccgcatcaacctagatctggggcgtgatccgaaaggtgacccggatccaccggtcgccacctactagagccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttatatactagtagcggccgctgcag
+
+7.
+GAATTCGCGGCCGCTTCTAGAGaaagaggagaaaTACTAGATGATGCTGTCTCAGATCGCTATCTGCATCTGGGTTGAATCTACCGCTATCCTGCAAGACTGCCAGCGTGCTCTGTCTGCTGACCGTTACCAGCTGCAAGTTTGCGAATCTGGTGAAATGCTGCTGGAATACGCTCAGACCCACCGTGACCAGATCGACTGCCTGATCCTGGTTGCTGCTAACCCGTCTTTCCGTGCTGTTGTTCAGCAGCTGTGCTTCGAAGGTGTTGTTGTTCCGGCTATCGTTGTTGGTGACCGTGACTCTGAAGACCCGGACGAACCGGCTAAAGAACAGCTGTACCACTCTGCTGAACTGCACCTGGGTATCCACCAGCTGGAACAGCTGCCGTACCAGGTTGACGCTGCTCTGGCTGAGTTCCTGCGTCTGGCTCCGGTTGAAACCATGGCTGACCACATCATGCTGATGGGTGCTAACCACGACCCGGAACTGTCTTCTCAGCAGCGTGACCTGGCTCAGCGTCTGCAAGAACGTCTGGGTTACCTGGGTGTTTACTACAAACGTGACCCGGACCGTTTCCTGCGTAACCTGCCGGCTTACGAATCTCAGAAACTGCACCAGGCTATGCAGACCTCTTACCGTGAAATCGTTCTGTCTTACTTCTCTCCGAACTCTAACCTGAACCAGTCTATCGACAACTTCGTTAACATGGCTTTCTTCGCTGACGTTCCGGTTACCAAAGTTGTTGAAATCCACATGGAACTGATGGACGAGTTCGCTAAAAAACTGCGTGTTGAAGGTCGTTCTGAAGACATCCTGCTGGACTACCGTCTGACCCTGATCGACGTTATCGCTCACCTGTGCGAAATGTACCGTCGTAGCATCCCGCGTGAAACCTACTAGTAGCGGCCGCTGCAG
+
+8.
+GAATTCGCGGCCGCTTCTAGAGaaagaggagaaaTACTAGATGATGACCTCTGCTGAAATGACCTCTCCGAACAACAACTCTGAACACCAGGCTATCGCTAAAATGCGTACCATGATCGAAGGTTTCGACGACATCTCTCACGGTGGTCTGCCGATCGGTCGTAGCACCCTGGTTTCTGGTACCTCTGGTACCGGTAAAACCCTGTTCTCTATCCAGTTCCTGTACAACGGTATCATCGAGTTCGACGAACCGGGTGTTTTCGTTACCTTCGAAGAAACCCCGCAGGACATCATCAAAAACGCTCGTTCTTTCGGTTGGGACCTGGCTAAACTGGTTGACGAAGGTAAACTGTTCATCCTGGACGCTTCTCCGGACCCGGAAGGTCAGGAAGTTGTTGGTGGTTTCGACCTGTCTGCTCTGATCGAACGTATCAACTACGCTATCCAGAAATACCGTGCTCGTCGTGTTAGCATCGACTCTGTTACCTCTGTTTTCCAGCAGTACGACGCTTCTTCTGTTGTTCGTCGTGAACTGTTCCGTCTGGTTGCTCGTCTGAAACAGATCGGTGCTACCACCGTTATGACCACCGAACGTATCGAAGAATACGGTCCGATCGCTCGTTACGGTGTTGAAGAGTTCGTTTCTGACAACGTTGTTATCCTGCGTAACGTTCTGGAAGGTGAACGTCGTCGTCGTACCCTGGAAATCCTGAAACTGCGTGGTACCTCTCACATGAAAGGTGAATACCCGTTCACCATCACCGACCACGGTATCAACATCTTCCCGCTGGGTGCTATGCGTCTGACCCAGCGTTCTAGCAACGTTCGTGTTTCTTCTGGTGTTGTTCGTCTGGACGAAATGTGCGGTGGTGGTTTCTTCAAGGACTCTATCATCCTGGCTACCGGTGCTACCGGTACCGGTAAAACCCTGCTGGTTTCTCGTTTCGTTGAAAACGCTTGCGCTAACAAAGAACGTGCTATCCTGTTCGCTTACGAAGAATCTCGTGCTCAGCTGCTGCGTAACGCTTACTCTTGGGGTATGGACTTCGAAGAAATGGAACGTCAGAACCTGCTGAAAATCGTTTGCGCTTACCCGGAATCTGCTGGTCTGGAAGACCACCTGCAAATCATCAAATCTGAAATCAACGACTTCAAACCGGCTCGTATCGCTATCGACTCTCTGTCTGCTCTGGCTCGTGGTGTTAGCAACAACGCTTTCCGTCAGTTCGTTATCGGTGTTACCGGTTACGCTAAACAGGAAGAAATCACCGGTCTGTTCACCAACACCTCTGACCAGTTCATGGGTGCTCACTCTATCACCGACTCTCACATCTCTACCATCACCGACACCATCATCCTGCTGCAATACGTTGAAATCCGTGGTGAAATGTCTCGTGCTATCAACGTTTTCAAAATGCGTGGTTCTTGGCACGACAAAGCTATCCGTGAGTTCATGATCTCTGACAAAGGTCCGGACATCAAAGACTCTTTCCGTAACTTCGAACGTATCATCTCTGGTTCTCCGACCCGTATCACCGTTGACGAAAAATCTGAACTGTCTCGTATCGTTCGTGGTGTTCAGGAAAAAGGTCCGGAATCTTAATACTAGAGccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttataTACTAGTAGCGGCCGCTGCAG
+
+
+9.
+GAATTCGCGGCCGCTTCTAGAGAAAGGTAAAGGAGGTCTTAAGCTCGGCTCAATTTCTCTCTTTATCCTGTTAGATGGTTTGATTGCTGTTGCTACCCCGTTGATCTGCGTTACTAGAGaaagaggagaaaTACTAGATGatggttagcaagggcgaagaactttttacaggcgtagtaccgatcttagttgaattagacggcgacgttaacggtcataagtttagcgtgagcggtgagggtgaaggtgacgcaacttacggcaagctgaccctgaagctgatttgcacgacgggtaagctgccggtcccgtggcctaccctggtcacgaccttgggttatggcgttcagtgtttcgcgcgttatccggaccacatgaaacaacacgatttctttaagagcgcgatgccagaaggctatgtgcaggagcgtacgatctttttcaaagacgacggtaactacaagacgcgtgccgaagtcaaattcgaaggcgacaccctggtgaatcgcattgagctgaagggtattgatttcaaagaggatggcaatatcctgggtcacaagctggagtacaattacaattcccacaacgtttacatcaccgcagataaacagaaaaatggcatcaaagcgaatttcaaaatccgtcacaacattgaggacggtggtgttcaactggcggatcattaccagcaaaacaccccgattggtgacggtccggtcctgttgccggataaccattatctgtcttaccaaagcaaactgagcaaagatccgaacgagaagcgcgaccacatggtgctgctggagtttgtgaccgctgccggtattaccctgggtatggatgagctgtataaataataaTACTAGAGccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttataTACTAGTAGCGGCCGCTGCAG
+
+10.
+GAATTCGCGGCCGCTTCTAGAGaaagaggagaaaTACTAGATGATGCTGGCTCCGTCTTCTAACTGCTCTCTGGCTTCTCAGCGTCTGACCCCGGAAGGTTTCGCTCAGCTGCAATCTGCTCTGCAAGACTTCGTAGCTACTCTGCCGCAGGCTTTCTACTGGGACTCTCGATCTCTGCACACCCACCTGCGTACCCAGACCGGTGACTGCGCTATCGCTATCGCTGCTGGTTTCCAGCTGCTGCTGCTGGGTCGTACCGCTGCTGAATACTGCCAGCCGCACCCGCTGTCTGAACCGCACCACGTATCTGTTCAGTTCGGTGCTGACTCTATCCAGCGATACTGCCAGGCTACCAACCTGCCGGTTGAATACCAGCCGGCTCTGGCTCAGCTGGGTGACCTGTCTCTGAACCCGGACCTGATCTCTCAGTTCTCTAACCTGCTGATCGCTGCTATCGCTGCTGACCGTGCTCCGCTGGCTGCTCAGTACCCGGCTGTTTCTGTTTGCCAGCCGCTGGAACAGGCTCTGCACTGGCAGGAAGAACAGGACCGTCTGATCTCTCAGGTTTCTGCTCAGATCCGTCTGTCTCTGGACCTGTCTGAAATCCTGACCACCACCATCCGTGAAATCCGTCAGCTGCTGAATGCTGACCGTGCTATCATCTACCAGTTCAAACCGCAGTGCCTGGACGCTGGTCTGGACCAGCGGTGGCCGCTGTACATCCCGTCTCAGTCTTACATCACCTACGAAGACCGTCGTAATGAAGCTCTGCTGTCTGTTATCGACCCGCTGGTTCAGCCGGGTCTGCTGATCACCACCGAAGAATGGCAGCGATTCCAGCAGGGTGAAACCCTGCTGATCGACTCTGTTGGTTTCTACAAAGAACGTCTGCCGGAACAGTACTCTTTCTACGAGCGTGTTCAGGTTCGCTCTGTTTGCAAAATCCCGATCCTGGTTCAGGGTCGTATCTGGGGTCTGCTGGTTGCTCACCAGTGCCAGCAGGACCACCGATGGCAGCCGCGTGAGCGTGACATCCTGCAACACCTGGCTGAACACCTGTCTATCGCTATCTACCAGGCTCAGCTGTACGGTCAGCTGCAAGACCAGACCCAGACCCTGGAAAACCGTGTTCTGGAGCGTACCCAGGAACTGATCGACGCTCTGGCTCTGGCTCAGGCTGCTAACGCTGCTAAAGGTGAGTTCCTGGCTACCATGTCTCACGAACTGCGTACCCCGCTGACCTGCGTAATCGGTATGTCTTCTACCCTGCTGCGATGGGCTTTCGGTCCGCTGACCGAACGTCAGCGTGAATACATCAAAGCTATCCACGACTCTGGTGAACACCTGCTGGAACTGATCAATGACATCCTGGACCTGTCTCAGATCGAAGCTGGTAAAGCTGCTCTGCAAGTTCGTCCGTTCTCTCTGTCTCGTCTGGCTACCCAGACCCTGAACACCCTGCAAGAAAAAGCTCGTCTGGGTGAAATCCAGCTGATGCTGGACCTGCAACTGAACAACCGTGTTGACGTATTCCGTGCTGACCCGAAGCGTCTGCGTCAGATCCTGATCAACCTGCTGTCTAACGCTGTTAAATTCACCGAACCGCAGGGTACCGTTTTCCTGCGTGTTTGGCGTGAAGGTGACCGTGCTATCTTCCAGGTTTCTGACACCGGTATCGGTATCCCGGAATCTGAACAGGCTCAGCTGTTCCAGAAATTCCAGCAGCTGGACACCTCTATCCGTCGTCAGTACGGTGGTACCGGTCTGGGTCTGGCTCTGACCAAACAGCTGGTTGAACTGCACGGTGGTCACATCCAGATCGAATCTACCGTAGGTCAGGGTTCTACCTTCACCGTATGGATCCCGGAACAGACCCTGATCGAACCGGTTGAACCGCGTCCGTCTATCGACAACCTGCCGGCTGGTCACATCCTGCTGCTGGAAGAAGAAGACGAAGCTGCTACCGTAGTTTGCGAAATGCTGACCGCTGCTGGTTTCAAAGTTATCTGGCTGGTTGACGGTTCTACCGCTCTGGACCAGCTGGACCTGCTGCAACCGATCGTTATCCTGATGGCTTGGCCGCCGCCGGACCAGTCTTGCCTGCTGCTGCTGCAACACCTGCGTGAACACCAGGCTGACCCGCACCCGCCGCTGGTTCTGTTCCTGGGTGAACCGCCGGTTGACCCGCTGCTGACCGCTCAGGCTTCTGCTATCCTGTCTAAACCGCTGGACCCGCAGCTGCTGCTGACCACCCTGCAAGGTCTGTGCCCGCCGAACCTGTCTGAAGGTGACCGTCCGTCTTCTTAATACTAGAGccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctctactagagtcacactggctcaccttcgggtgggcctttctgcgtttataTACTAGTAGCGGCCGCTGCAG
+
+11.
+GAATTCGCGGCCGCTTCTAGAGttgacggctagctcagtcctaggtacagtgctagcTACTAGAGaaagaggagaaaTACTAGATGATGAAACCGCGTATCCTGGTTATCGACGACGACTCTGCTATCCTGGAACTGGTTGCTGTTAACCTGGAAATGTCTGGTTACGACGTTCGTAAAGCTGAAGACGGTATCAAAGGTCAGGCTCTGGCTGTTCAGCTGGTTCCGGACCTGATCATGCTGGACCTGATGCTGCCGCGTGTTGACGGTTTCACCGTTTGCCAGCGTCTGCGTCGTGACGAACGTACCGCTGAAATCCCGGTTCTGATGCTGACCGCTCTGGGTCAGACCCAGGACAAAGTTGAAGGTTTCAACGCTGGTGCTGACGACTACCTGACCAAACCGTTCGAAGTTGAAGAAATGCTGGCTCGTGTTCGTGCTCTGCTGCAACGTACCGACCGTATCCCGCACGCTGCTCGTCACTCTGAAATCCTGTCTTACGGTCCGCTGACCCTGATCCCGGAACGTTTCGAAGCTATCTGGTTCAACCGTACCGTTAAACTGACCCACCTGGAGTTCGAACTGCTGCACTGCCTGCTGCAACGTCACGGTCAGACCGTTGCTCCGTCTGAAATCCTGAAAGAAGTTTGGGGTTACGACCCGGACGACGACATCGAAACCATCCGTGTTCACATCCGTCACCTGCGTACCAAACTGGAACCGGACCCGCGTCACCCGCGTTACATCAAAACCGTTTACGGTGCTGGTTACTGCCTGGAACTGCCGGCTGAAACCGAACTGCACCAGCACGCTGACCAGTTCCCGTCTGCTTCTTAATAATACTAGAGaaagaggagaaaTACTAGATGATGGGTGAATCTCTGTCTCCGCAGGCTCTGGCTCAGCCGCTGCTGCTGCAACTGTTCGTTGACACCCGTCCGCTGTCTCAGCACATCGTTCAGCGTGTTAAAAACATCCTGGCTGCTGTTGAAGCTACCGTTCCGATCTCTCTGCAAGTTATCAACGTTGCTGACCAGCCGCAGCTGGTTGAATACTACCGTCTGGTTGTTACCCCGGCTCTGGTTAAAATCGGTCCGGGTTCTCGTCAGGTTCTGTCTGGTATCGACCTGACCGACCAGCTGGCTAACCAGCTGCCGCAGTGGCTGGTTCAGCAGGAAGCTTTCTTCGCTGACCGTGAACCGCCGGAAGTTAACATCCCGTTCACCGAACTGGGTCAGCCGGAAACCCCGGCTCTGCAACAGGCTGACGCTTTCTTCCAGCTGCAACAGCAGTACGCTGACCTGTCTGAACGTACCAAATTCCTGGAACAGGTTATCGCTCTGGTTGCTCACGACCTGCGTAACCCGCTGACCGCTGCTCTGCTGGCTGTTGACACCATCCAGATCCGTTCTCAGTCTTTCTCTGTTGCTACCGCTAAAGAAATGCAGGGTCTGTGCTCTCTGTTCGACCAGGCTCGTTCTCAGCTGCGTGAAATCGAACGTATGATCGCTGAAATCCTGGAAGCTACCCGTCACTCTGGTGAATCTCTGCGTATCAACCCGCGTGAAGTTGTTTTCGAACCGCTGCTGCAACAGGTTCTGGAACAGCTGCACGAACGTTGGCGTTCTAAACAGCAGCAGCTGATCACCGACGTTCCGGGTGACCTGCCGACCCTGTACGCTGACCCGGACCGTCTGCGTCAGGTTCTGGTTAACCTGCTGGACAACGCTATCAAATACACCCCGCCGGGTGGTACCATCACCATCGCTGCTCTGCACCGTACCTCTCAGAAAGTTCAGATCTCTATCTCTGACACCGGTTCTGGTATCCCGCGTGACCAGCTGTCTGTTATCTTCAAAAACCTGGTTCGTCTGTCTCGTGACTCTTCTCAGGAAGGTTACGGTATCGGTCTGTCTGTTTGCCAGCGTATCGTTCAGGCTCACTTCGGTCGTATCTGGGTTGCTTCTGAACTGGGTCAGGGTTCTACCTTCCACTTCACCATGCCGGTTTACCGTTACACCATGCCGTGCTAATAATACTAGTAGCGGCCGCTGCAG
+
+
+12.
+GAATTCGCGGCCGCTTCTAGAGTAACACCGTGCGTGTTGACTATTTTACCTCTGGCGGTGATAATGGTTGCTACTAGAGAAAGAGGAGAAATACTAGATGCCGATTGCACCGGAATTTCTGAGCCTGGCATATCCGGGTCAAGAATTTCCGGCATATCTGTATGGTCGTGCAAGCCGTGATCCGAAACGTAAAGGTCGTAGCGTTCAGAGCCAGCTGGATGAAGGTCGTGCCACCTGTCTGGATGCAGGTTGGCCGATTGCCGGTGAATTTAAAGATGTTGATCGTAGCGCAAGCGCATATGCACGTCGTACCCGTGATGAATTTGAAGAAATGATTGCAGGTATTCAGGCAGGCGAATGTCGTATTCTGGTTGCATTTGAAGCAAGCCGTTATTATCGTGATCTGGAAGCATATGTTCGTCTGCGTCGTGTTTGTCGTGAAGCCGGTGTTCTGCTGTGTTATAATGGTCAGGTTTATGATCTGAGCAAAAGCGCAGATCGTAAAGCAACCGCACAGGATGCAGTTAATGCCGAAGGTGAAGCAGATGATATTCGTGAACGTAATCTGCGTACCACCCGTCTGAATGCAAAACGTGGTGGTGCACATGGTCCGGTTCCGGATGGTTATAAACGTCGTTATGATCCGGATAGCGGTGATCTGGTTGATCAGATTCCGCATCCTGATCGTGCAGGTCTGATTACCGAAATTTTTCGTCGTGCAGCAGCAGCCGAACCGCTGGCAGCAATTTGCCGTGATCTGAATGAACGTGGTGAAACCACCCATCGTGGTAAAGCATGGCAGCGTCATCATCTGCATGCAATTCTGCGTAATCCTGCATATATTGGTCATCGTCGTCATCTGGGTGTTGATACCGGTAAAGGTATGTGGGCACCGATTTGTGATGATGAAGATTTTGCAGAAACCTTTCAGGCCGTTCAAGAAATTCTGAGTCTGCCTGGTCGTCAGCTGAGTCCGGGTCCGGAAGCACAGCATCTGCAGACCGGTATTGCACTGTGTGGTGAACATCCTGATGAACCGCCTCTGCGTAGCGTTACCGTTCGTGGTCGTACCAATTATAACTGTAGCACCCGTTATGATGTTGCCATGCGTGAAGATCGTATGGATGCATTTGTTGAAGAAAGCGTGATTACCTGGCTGGCAAGTGATGAAGCAGTTGCAGCCTTTGAAGATAACACCGATGATGAACGTACCCGTAAAGCACGTATTCGTCTGAAAGTTCTGGAAGAACAGCTGGAAGCAGCACAGAAACAGGCACGTACCCTGCGTCCGGATGGCATGGGTATGCTGCTGAGCATTGATAGCCTGGCAGGTCTGGAAGCCGAACTGACACCGCAGATTGATAAAGCCCGTCAAGAAAGCCGTAGCCTGCATGTTCCGGCACTGCTGCGTGATCTGCTGGGTAAACCGCGTGCAGATGTGGATCGTGCATGGAATGAAGCACTGACCCTGCCGCAGCGTCGCATGATTCTGCGCATGGTTGTTACCATTCGTCTGTTTAAAGCAGGTAGCCGTGGTGTTCGTGCAATTGAACCGGGTCGTATTACCCTGAGCTATGTTGGCGAACCGGGTTTTAAACCGGTTGGTGGTAATCGTGCAAAACAGTAATACTAGAGAAAGAGGAGAAATACTAGAGGGACGGCGCAGAAGGGGAGTAGCTCTTCGCCGGACCGTCGACATACTGCTCAGCTCGTCTACTAGAGTTATTATTTGTATAGTTCATCCATGCCATGTGTAATCCCAGCAGCTGTTACAAACTCAAGAAGGACCATGTGGTCTCTCTTTTCGTTGGGATCTTTCGAAAGGGCAGATTGTGTGGACAGGTAATGGTTGTCTGGTAAAAGGACAGGGCCATCGCCAATTGGAGTATTTTGTTGATAATGGTCTGCTAGTTGAACGCTTCCATCTTCAATGTTGTGTCTAATTTTGAAGTTAACTTTGATTCCATTCTTTTGTTTGTCTGCCATGATGTATACATTGTGTGAGTTATAGTTGTATTCCAATTTGTGTCCAAGAATGTTTCCATCTTCTTTAAAATCAATACCTTTTAACTCGATTCTATTAACAAGGGTATCACCTTCAAACTTGACTTCAGCACGTGTCTTGTAGTTCCCGTCATCTTTGAAAAATATAGTTCTTTCCTGTACATAACCTTCGGGCATGGCACTCTTGAAAAAGTCATGCTGTTTCATATGATCTGGGTATCTCGCAAAGCATTGAACACCATAACCGAAAGTAGTGACAAGTGTTGGCCATGGAACAGGTAGTTTTCCAGTAGTGCAAATAAATTTAAGGGTAAGTTTTCCGTATGTTGCATCACCTTCACCCTCTCCACTGACAGAAAATTTGTGCCCATTAACATCACCATCTAATTCAACAAGAATTGGGACAACTCCAGTGAAAAGTTCTTCTCCTTTACGCATTACTAGAGGCTCATGTATGTGTCTACGCGAGATTCTCGCCCGAGAACTTCTGCAAGGCACTGCTCTTGGCTTACTAGAGCCAGGCATCAAATAAAACGAAAGGCTCAGTCGAAAGACTGGGCCTTTCGTTTTATCTGTTGTTTGTCGGTGAACGCTCTCTACTAGAGTCACACTGGCTCACCTTCGGGTGGGCCTTTCTGCGTTTATATACTAGTAGCGGCCGCTGCAG
+
+13.
+GAATTCGCGGCCGCTTCTAGAGaaagaggagaaaTACTAGATGATGTCTCCGCGTAAAACCTACATCCTGAAACTGTACGTTGCTGGTAACACCCCGAACTCTGTTCGTGCTCTGAAAACCCTGAAAAACATCCTGGAAGTTGAGTTCCAGGGTGTTTACGCTCTGAAAGTTATCGACGTTCTGAAAAACCCGCAGCTGGCTGAAGAAGACAAAATCCTGGCTACCCCGACCCTGGCTAAAGTTCTGCCGCTGCCGGTTCGTCGTATCATCGGTGACCTGTCTGACCGTGAAAAAGTTCTGATCGGTCTGGACCTGCTGTACGGTGAACTGCAAGACTCTGACGACTTTTAATACTAGTAGCGGCCGCTGCAG
+
+14.
+GAATTCGCGGCCGCTTCTAGAGTTGACGGCTAGCTCAGTCCTAGGTACAGTGCTAGCTACTAGAGAAAGAGGAGAAATACTAGATGATGTCTCGTGCTGCTGTTGCTATCGCTCTGCTGGGTTGCGTTGTTGCTGCTTACGGTGCTCCGGCTGAAGGTCACGACGACGCTAAAGCTGAATGGACCGGTAAATCTTGGATGGGTAAATGGGAATCTACCGACCGTATCGAAAACTTCGACGCTTTCATCTCTGCTCTGGGTCTGCCGCTGGAACAGTACGGTGGTAACCACAAAACCTTCCACAAAATCTGGAAAGAAGGTGACCACTACCACCACCAGATCTCTGTTCCGGACAAAAACTACAAAAACGACGTTAACTTCAAACTGAACGAAGAAGGTACCACCCAGCACAACAACACCGAAATCAAATACAAATACACCGAAGACGGTGGTAACCTGAAAGCTGAAGTTCACGTTCCGTCTCGTAACAAAGTTATCCACGACGAATACAAAGTTAACGGTGACGAACTGGAAAAAACCTACAAAGTTGGTGACGTTACCGCTAAACGTTGGTACAAAAAATCTTCTTCTTCTTAAGGTGAAAATTTGTATTTTCAATCTGGTGGTCATCATCATCATCATCATTACTAGAGAAAGAGGAGAAATACTAGTAGCGGCCGCTGCAG
+
+15.
+GAATTCGCGGCCGCTTCTAGAGTTGACGGCTAGCTCAGTCCTAGGTACAGTGCTAGCTACTAGAGAAAGAGGAGAAATACTAGATGATGCCGTACGAAAAACACGTTGAACAGACCGTTGTTGAAAAAACCGAACAGCCGGGTCACTCTTCTACCCACCACGCTCCGGCTCAGCGTACCGTTGCTCGTGAACAGGAAGAAGTTGTTCACAAAGAATTTACCCACACCGACATCCGTGTTCCGCACATCGACGCTCCGCCGCCGATCATCGCTGCTTCTGCTGTTGGTCTGGCTGAAGAAATCGTTTCTCACGGTTTCCAGGCTTCTGCTGCTCGTATCTCTGGTGCTTCTACCGAAGTTGACATGCGTCCGTCTCCGAAACTGGCTGAAGAAGCTCGTCGTGACGCTGAACGTTACCAGAAAGAACACGAAATGATCAACCGTCAGGCTGAAGCTACCCTCCAGAAAAAAGCTGAAGAATACCGTCACCAGACCGAAGCTGAAGCTGAAAAAATCCGTCGTGAACTGGAAAAACAGCACGAACGTGACATCCAGTTCCGTAAAGACCTGATCGACCAGACCATCGAAAAACAGAAACGTGAAGTTGACCTGGAAGCTAAAATGGCTAAACGTGAACTGGACCGTGAAGCTCAGCTGGCTAAAGAAGCTCTGGAACGTTCTCGTATGGCTACCAACGTTGAAGTTACCCTGGACACCGCTGCTGGTCACACCGTTTCTGGTGGTACCACCGTTTCTTCTGTTGACAAAGTTGAAACCGTTCGTGAACGTAAACACCACTAATACTAGAGAAAGAGGAGAAATACTAGTAGCGGCCGCTGCAG
+
+*****
+E. coli (Strain: EcNR1, https://www.addgene.org/26930/)
+A. baylyi (Strain: ADP1, https://www.atcc.org/products/all/33305)
+*****
+DH5alpha, BL21
+*****
+We intend to use E.coli DH5alpha as our chassis and E.coli BL21(DE3) to express protein. What's more, a panD-defective strain of E.coli K-12 MG1655 will use to as a control group verifying Cas9 protein function as we have  sgRNA sequence targeting panD gene on genome.
+*****
